@@ -125,8 +125,8 @@ const Home = () => {
         {filteredSpells.length > 0 ? (
           filteredSpells.map((spell) => {
             return (
-              <div className="zauber" key={spell.name}>
-                <h3 id={spell.name}>{spell.name}</h3>
+              <div id={spell.name} className="zauber" key={spell.name}>
+                <h3>{spell.name}</h3>
                 {spell.grad > 0 ? (
                   <p>
                     {spell.schule} des {spell.grad}. grades
