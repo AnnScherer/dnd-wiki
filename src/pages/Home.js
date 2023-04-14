@@ -41,6 +41,7 @@ const Home = () => {
       return spell.name.includes(searchSpell);
     });
     setFilteredSpells(spellFilter);
+    setInhaltsverzeichnis(spellFilter)
   };
   const changeValue = (e) => {
     setSearchSpell(e.target.value);
