@@ -1,153 +1,19 @@
-#menuToggle {
-  display: block;
-  padding: 1.5rem;
-  z-index: 1;
-  user-select: none;
-}
-
-#menuToggle a {
-  text-decoration: none;
-  color: #232323;
-
-  transition: color 0.3s ease;
-}
-
-#menuToggle a:hover {
-  color: #f05454;
-}
-
-#menuToggle input {
-  display: block;
-  width: 40px;
-  height: 32px;
-  position: absolute;
-  cursor: pointer;
-
-  opacity: 0; /* hide this */
-  z-index: 2; /* and place it over the hamburger */
-
-  -webkit-touch-callout: none;
-}
-
-/*
- * Just a quick hamburger
- */
-#menuToggle span {
-  display: block;
-  width: 33px;
-  height: 4px;
-  margin-bottom: 5px;
-  position: relative;
-
-  background: #edf2f6;
-  border-radius: 3px;
-
-  z-index: 1;
-
-  transform-origin: 4px 0px;
-
-  transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1),
-    background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), opacity 0.55s ease;
-}
-
-#menuToggle span:first-child {
-  transform-origin: 0% 0%;
-}
-
-#menuToggle span:nth-last-child(2) {
-  transform-origin: 0% 100%;
-}
-
-/* 
- * Transform all the slices of hamburger
- * into a crossmark.
- */
-#menuToggle input:checked ~ span {
-  opacity: 1;
-  transform: rotate(45deg) translate(-2px, -1px);
-  background: #232323;
-}
-
-/*
- * But let's hide the middle one.
- */
-#menuToggle input:checked ~ span:nth-last-child(3) {
-  opacity: 0;
-  transform: rotate(0deg) scale(0.2, 0.2);
-}
-
-/*
- * Ohyeah and the last one should go the other direction
- */
-#menuToggle input:checked ~ span:nth-last-child(2) {
-  transform: rotate(-45deg) translate(0, -1px);
-}
-
-/*
- * Make this absolute positioned
- * at the top left of the screen
- */
-#menu {
-  position: absolute;
-  width: 300px;
-  margin: -100px 0 0 -50px;
-  padding: 50px;
-  padding-top: 125px;
-
-  background: #edf2f6;
-  list-style-type: none;
-  -webkit-font-smoothing: antialiased;
-  /* to stop flickering of text in safari */
-
-  transform-origin: 0% 0%;
-  transform: translate(-100%, 0);
-
-  transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1);
-}
-
-#menu li {
-  padding: 10px 0;
-  font-size: 22px;
-}
-
-/*
- * And let's slide it in from the left
- */
-#menuToggle input:checked ~ ul {
-  transform: none;
-}
-
-/* ------------------------------------------------------------------------------------- */
-
-nav {
+.nav {
   background-color: #f05454;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 75px;
+  height: 50px;
 }
 
-nav form {
-  padding-right: 2rem;
+.nav a {
+  margin: 0 3rem;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
 }
 
-.register,
-.login {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.register form,
-.login form {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.register form input,
-.login form input {
-  margin-bottom: 1rem;
+.nav a.active {
+  border-bottom: 3px solid white;
 }
 
 .home-form {
@@ -157,7 +23,7 @@ nav form {
   margin: 2.5rem 0;
 }
 
-.home-form button{
+.home-form button {
   margin-top: 1.5rem;
   padding: 5px 10px;
 }
@@ -171,12 +37,12 @@ nav form {
   margin: 1rem;
   width: 130px;
 }
-label{
+label {
   width: 150px;
   padding-left: 1rem;
 }
 
-.select-klasse{
+.select-klasse {
   border-bottom: 2px solid #ffffff;
 }
 
@@ -184,97 +50,218 @@ label{
 .select-grad {
   display: flex;
   align-items: center;
-  background-color: #E8E8E8;
+  background-color: #e8e8e8;
   border-radius: 3px;
 }
 
 .zauber {
-  background-color: #E8E8E8;
+  background-color: #e8e8e8;
   padding: 2rem;
   margin: 1rem;
   border-radius: 5px;
   max-width: 430px;
-  box-shadow:  15px 15px 30px #d3d3d3,
-             -15px -15px 30px #fdfdfd;
+  box-shadow: 15px 15px 30px #d3d3d3, -15px -15px 30px #fdfdfd;
 }
 
 .zauber p {
-  font-size: .8rem;
+  font-size: 0.8rem;
 }
 
-.alle-zauber{
+.alle-zauber {
   margin: 1rem;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
 }
 
-.meine-zauber-header, .anzahl-zauber{
-  text-align: center;
-}
-
-h3{
+h3 {
   padding: 0;
   margin: 0;
 }
 
-p{
+p {
   margin-top: 0;
-  margin-bottom: .8rem;
+  margin-bottom: 0.8rem;
   line-height: 1rem;
 }
 
-.navbar-desktop{
-  display: none;
-}
-
-.inhaltsverzeichnis{
+.inhaltsverzeichnis {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.inhaltsverzeichnis ul{
-list-style-type: none;
-margin: 0;
-padding: 0;
-text-align: center;
+.inhaltsverzeichnis ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
 }
 
-.inhaltsverzeichnis ul li{
-  margin-bottom: .4rem;
+.inhaltsverzeichnis ul li {
+  margin-bottom: 0.4rem;
 }
 
 .inhaltsverzeichnis a {
   cursor: pointer;
 }
 
-.search{
+.search {
   display: flex;
   justify-content: center;
   padding-top: 3rem;
 }
 
-@media screen and (min-width: 800px){
-  .navbar-desktop{
+.rasse-box {
+  background-color: #e8e8e8;
+  padding: 2rem;
+  margin: 1rem;
+  border-radius: 5px;
+  box-shadow: 15px 15px 30px #d3d3d3, -15px -15px 30px #fdfdfd;
+}
+
+.rasse-box span {
+  text-decoration: underline;
+  font-size: 1.5rem;
+  display: block;
+  margin-top: 2rem;
+}
+
+.rasse-box h3 {
+  margin-bottom: 1rem;
+}
+
+.rasse-box p {
+  line-height: 1.2rem;
+}
+
+.völker {
+  background-color: #ffffff1d;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.völker h3 {
+  padding: 3rem 0 1rem;
+}
+
+.völker h2 {
+  padding-left: 2.5rem;
+  padding-top: 2rem;
+  margin: 0;
+}
+
+.völker p {
+  line-height: 1.2rem;
+}
+
+.völker ul {
+  padding-left: 0;
+  margin-bottom: 3rem;
+  padding: 0 2.5rem;
+}
+
+.völker li {
+  margin-bottom: 0.5rem;
+  list-style-type: none;
+}
+
+.völker button {
+  position: fixed;
+  bottom: 20px;
+  left: 2.5rem;
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.völker .select-volk {
+  margin-top: 3rem;
+  background-color: #e8e8e8;
+  border-radius: 3px;
+}
+
+.volk {
+  margin-bottom: 3rem;
+  padding: 0 2.5rem;
+  max-width: 800px;
+}
+
+.volk img {
+  width: 100%;
+  margin-bottom: 2rem;
+}
+
+.volk table {
+  background-color: white;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  width: 100%;
+  font-size: 1.3vw;
+}
+
+/* #BARBAR table {
+  font-size: 10%;
+}
+
+#BARDE table {
+  font-size: 0.3rem;
+}
+
+#DRUIDE table {
+  font-size: 0.4rem;
+} */
+
+.volk table th {
+  line-height: 0.8rem;
+}
+
+.volk table tr {
+  line-height: 0.8rem;
+}
+
+.volk table td {
+  text-align: center;
+  padding: 2px 5px;
+}
+
+.volk table tr:nth-child(odd) {
+  background-color: rgb(172, 211, 172);
+}
+
+p span {
+  text-decoration: underline;
+  display: block;
+  margin-top: 2rem;
+  font-size: 1.2rem;
+}
+
+@media screen and (min-width: 800px) {
+  .navbar-desktop {
     display: flex;
   }
-  .navbar-desktop ul{
+  .navbar-desktop ul {
     display: flex;
   }
-  .navbar-desktop ul li{
+  .navbar-desktop ul li {
     list-style-type: none;
     color: #ffffff;
     padding-bottom: 3px;
   }
-   .navbar-desktop a{
+  .navbar-desktop a {
     text-decoration: none;
     margin: 0 1.5rem;
-   }
-   .navbar-desktop a:hover{
+  }
+  .navbar-desktop a:hover {
     border-bottom: 3px solid #ffffff;
-   }
-  #menuToggle{
+  }
+  #menuToggle {
     display: none;
   }
 }
