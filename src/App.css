@@ -112,6 +112,16 @@ p {
   padding-top: 3rem;
 }
 
+.search input{
+  width: 240px;
+  height: 30px;
+  font-size: .8rem;
+}
+
+.search button{
+  height: 30px;
+}
+
 .rasse-box {
   background-color: #e8e8e8;
   padding: 2rem;
