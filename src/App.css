@@ -203,21 +203,26 @@ p {
   margin-top: 2rem;
   margin-bottom: 2rem;
   width: 100%;
-  font-size: 1.3vw;
+  font-size: .4rem;
 }
 
 .volk table{
   line-height: 1vh;
 }
 
-.volk .zauberer table{
+.volk table th,
+.volk table td{
+  padding: 3px 5px;
+}
+
+.volk #zauberer table{
   font-size: .3rem;
+  padding: 2px 5px;
 }
 
 .volk table th,
 .volk table td {
   text-align: center;
-  padding: 2px 8px;
 }
 
 .volk table tr:nth-child(odd) {

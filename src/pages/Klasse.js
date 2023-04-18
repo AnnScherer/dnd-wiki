@@ -42,7 +42,8 @@ export default function Klasse() {
               <div className="volk" key={i}>
                 <h3 key={i}>{klasse.name}</h3>
                 <p
-                  className={`tabelle ${klasse.name.toLowerCase()}`}
+                  className="tabelle"
+                  id={klasse.name.toLowerCase()}
                   dangerouslySetInnerHTML={{ __html: klasse.tabelle }}
                   key={klasse.name}
                 ></p>
@@ -59,4 +60,3 @@ export default function Klasse() {
     </div>
   );
 }
-
