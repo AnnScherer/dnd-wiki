@@ -24,6 +24,7 @@ export default function Klasse() {
             <option>BARDE</option>
             <option>DRUIDE</option>
             <option>HEXENMEISTER</option>
+            <option>KÄMPFER</option>
             <option>KLERIKER</option>
             <option>MAGIER</option>
             <option>MÖNCH</option>

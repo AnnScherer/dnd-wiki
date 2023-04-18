@@ -206,29 +206,18 @@ p {
   font-size: 1.3vw;
 }
 
-/* #BARBAR table {
-  font-size: 10%;
+.volk table{
+  line-height: 1vh;
 }
 
-#BARDE table {
-  font-size: 0.3rem;
+.volk .zauberer table{
+  font-size: .3rem;
 }
 
-#DRUIDE table {
-  font-size: 0.4rem;
-} */
-
-.volk table th {
-  line-height: 0.8rem;
-}
-
-.volk table tr {
-  line-height: 0.8rem;
-}
-
+.volk table th,
 .volk table td {
   text-align: center;
-  padding: 2px 5px;
+  padding: 2px 8px;
 }
 
 .volk table tr:nth-child(odd) {
