@@ -4,10 +4,10 @@
   justify-content: space-between;
   align-items: center;
   height: 50px;
+  padding: 0 1.5rem;
 }
 
 .nav a {
-  margin: 0 3rem;
   text-decoration: none;
   color: rgb(255, 255, 255);
 }
@@ -142,6 +142,7 @@ p {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding: 0 3rem;
 }
 
 .völker h3 {
@@ -189,7 +190,7 @@ p {
 
 .volk {
   margin-bottom: 3rem;
-  padding: 0 2.5rem;
+  width: 100%;
   max-width: 800px;
 }
 
@@ -198,26 +199,18 @@ p {
   margin-bottom: 2rem;
 }
 
-.volk table {
+.volk p table {
+  display: block;
   background-color: white;
   margin-top: 2rem;
   margin-bottom: 2rem;
-  width: 100%;
-  font-size: .2rem;
-}
-
-.volk table{
-  line-height: 1vh;
+  overflow-x: scroll;
+  font-size: 0.8rem;
 }
 
 .volk table th,
-.volk table td{
+.volk table td {
   padding: 3px 5px;
-}
-
-.volk #zauberer table{
-  font-size: .3rem;
-  padding: 2px 5px;
 }
 
 .volk table th,
