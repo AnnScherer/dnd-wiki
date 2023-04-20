@@ -1,0 +1,221 @@
+[
+  {
+    "name": "Andere",
+    "array": [
+      {
+        "name": "Fälscherausrüstung",
+        "kosten": 1500,
+        "gewicht": 5,
+        "beschreibung": "Dieser kleine Kasten enthält ein breites Spektrum an Papieren und Pergamenten, Schreibwerkzeugen und Tinten, Siegeln und Siegelwachs, Gold- und Silberplättchen sowie andere  Ausrüstung, die notwendig ist, um überzeugende Fälschungen von tatsächlichen Dokumenten zu er schaffen. Bist du im Umgang mit diesem Werkzeug geübt, darfst du deinen Übungsbonus auf alle Attributs- und Fertigkeilswürfe addieren die mit dem Fälschen von Dokumenten in Verbindung stehen."
+      },
+      {
+        "name": "Diebeswerkzeug",
+        "kosten": 2500,
+        "gewicht": 1,
+        "beschreibung": "Dieser Satz Werkzeuge enthält eine kleine Feile, verschiedene  Dietriche, einen kleinen Spiegel mit Handgriff, unterschiedliche Scheren mit dünnen Schneiden und einige Pinzetten. Bist du im Umgang mit  diesem Werkzeug geübt, darfst du deinen Übungsbonus auf alle Attributs- und Fertigkeitswürfe addieren, die mit dem Entschärfen von Fallen oder dem Öffnen von Schlössern in Verbindung stehen."
+      },
+      {
+        "name": "Giftmischerausrüstung",
+        "kosten": 5000,
+        "gewicht": 2,
+        "beschreibung": "Die Giftmischerausrüstung enthält Phiolen, Chemikalien und andere Gegenstände, die zum Herstellen von Giften benötigt werden. Bist du im Umgang mit diesem Werkzeug geübt, darfst du deinen Übungsbonus auf alle Attributs- und Fertigkeitswürfe addieren, die mit der Herstellung und Anwendung von Giften in Verbindung stehen."
+      },
+      {
+        "name": "Kraeuterkundenausrüstung",
+        "kosten": 500,
+        "gewicht": 3,
+        "beschreibung": "Diese Ausrüstung enthält eine Auswahl von Instrumenten wie Pinzetten, Mörser und Stößel sowie Phiolen und Beutelchen, die von Kräutrerkundigen verwendet werden, um Salben und Tränke herzustellen. Bist du im Umgang mit diesem Werkzeug geübt, darfst du deinen Übungsbonus auf alle Attributs- und Fertigkeitswürfe  addieren, die mit dem Anwenden und Identifizieren von Kräutern sowie dem Herstellen von Gegengiften und Heiltränken in Verbindung stehen."
+      },
+      {
+        "name": "Navigationswerkzeuge",
+        "kosten": 2500,
+        "gewicht": 2,
+        "beschreibung": "Dieser Satz von Instrumenten wird bei der Navigation auf See verwendet. Übung mit diesem Werkzeug lässt dich den Kurs eines Schiffes aufzeichnen und  Navigationstabellen befolgen. Außerdem darfst du deinen Übungsbonus addieren wenn du Attributs- oder Fertigkeitswürfe ablegen musst, um dich nicht auf dem Meer zu verirren"
+      },
+      {
+        "name": "Verkleidungsausrüstung",
+        "kosten": 2500,
+        "gewicht": 3,
+        "beschreibung": "Dieser Beutel  mit Schminke, Haarfärbemitteln und kleinen Requisiten lässt dich Verkleidungen entwerfen, die de in Äußeres verändern. Bist du im  Umgang mit diesem Werkzeug geübt, darfst du deinen Übungsbonus auf alle Attributs- und Fertigkeitswürfe addieren, wenn du dich äußerlich verkleidest."
+      }
+    ]
+  },
+
+  {
+    "name": "Handwerkzeug",
+    "beschreibung": "Diese speziellen Werkzeuge umfassen alles was man benötigt um einem bestimmten Handwerk oder einer bestimmten Tatigkeit nachzugehen. In der Tabelle sind die häufigsten und meistverbreiteten Werkzeuge angeführt. Bist du im Umgang mit einem von diesen geübt, darfst du deinen die mit der Ausübung des entsprechenden Handwerks oder der Tätigkeit in Verbindung stehen. Jede Art von Handwerkzeug benötigt seine eigene Übung.",
+    "array": [
+      {
+        "name": "Alchemistenlabor",
+        "kosten": 5000,
+        "gewicht": 8
+      },
+      {
+        "name": "Brauereivorräte",
+        "kosten": 2000,
+        "gewicht": 9
+      },
+      {
+        "name": "Glasbläserwerkzeuge",
+        "kosten": 3000,
+        "gewicht": 5
+      },
+      {
+        "name": "Holzschnitzwerkzeuge",
+        "kosten": 100,
+        "gewicht": 5
+      },
+      {
+        "name": "Juwelierwerkzeuge",
+        "kosten": 100,
+        "gewicht": 2
+      },
+      {
+        "name": "Kalligraphiewerkzeuge",
+        "kosten": 1000,
+        "gewicht": 5
+      },
+      {
+        "name": "Karthographiewerkzeuge",
+        "kosten": 1500,
+        "gewicht": 6
+      },
+      {
+        "name": "Kochutensilien",
+        "kosten": 100,
+        "gewicht": 8
+      },
+      {
+        "name": "Lederwerkzeuge",
+        "kosten": 500,
+        "gewicht": 5
+      },
+      {
+        "name": "Malutensilien",
+        "kosten": 1000,
+        "gewicht": 5
+      },
+      {
+        "name": "Maurerwerkzeuge",
+        "kosten": 1000,
+        "gewicht": 8
+      },
+      {
+        "name": "Schmiedewerkzeuge",
+        "kosten": 2000,
+        "gewicht": 8
+      },
+      {
+        "name": "Schreinerwerkzeuge",
+        "kosten": 800,
+        "gewicht": 6
+      },
+      {
+        "name": "Schusterwerkzeuge",
+        "kosten": 500,
+        "gewicht": 5
+      },
+      {
+        "name": "Töpferwerkzeuge",
+        "kosten": 1000,
+        "gewicht": 3
+      },
+      {
+        "name": "Tüftlerwerkzeuge",
+        "kosten": 5000,
+        "gewicht": 10
+      },
+      {
+        "name": "Weberwerkzeuge",
+        "gruppe": false,
+        "kosten": 100,
+        "gewicht": 5,
+        "kategorie": "Handwerkzeug"
+      }
+    ]
+  },
+
+  {
+    "name": "Musikinstrumente",
+    "beschreibung": "Einige der meistverbreiteten Musikinstrumente sind als Beispiele in  der Tabelle aufgeführt. Bist du im Umgang mit einem Musikinstrument geübt, darfst du deinen Übungsbonus auf alle Attributs- und Fertigkeitswürfe addieren, die mit dem Spielen des Instruments in Verbindung stehen. Ein Barde kann sein Instrument als Zauberfokus verwenden, so wie es in Kapitel 10 `Zauber wirken` geschrieben wird. Jedes Musikinstrument benötigt seine eigene Übung.",
+    "array": [
+      {
+        "name": "Dudelsack",
+        "kosten": 3000,
+        "gewicht": 6
+      },
+      {
+        "name": "Flöte",
+        "kosten": 200,
+        "gewicht": 1
+      },
+      {
+        "name": "Gambe",
+        "kosten": 3000,
+        "gewicht": 1
+      },
+      {
+        "name": "Hackbrett",
+        "kosten": 2500,
+        "gewicht": 10
+      },
+      {
+        "name": "Horn",
+        "kosten": 300,
+        "gewicht": 2
+      },
+      {
+        "name": "Laute",
+        "kosten": 3500,
+        "gewicht": 2
+      },
+      {
+        "name": "Leier",
+        "kosten": 3000,
+        "gewicht": 2
+      },
+      {
+        "name": "Panflöte",
+        "kosten": 1200,
+        "gewicht": 2
+      },
+      {
+        "name": "Schalmei",
+        "kosten": 200,
+        "gewicht": 1
+      },
+      {
+        "name": "Trommel",
+        "kosten": 600,
+        "gewicht": 3
+      }
+    ]
+  },
+
+  {
+    "name": "Spiele",
+    "beschreibung": "Hierunter  fallen eine  ganze Auswahl von Spielen, unter anderem ein Würfelset und Spielkarten. Die Tabelle gibt einige verbreitete Beispiele für Spiele, doch es existieren unzählige weitere. Bist du im Umgang mit einem Spiel geübt, darfst du deinen Übungsbonus auf alle Attributs- und Fertigkeitswürfe addieren, wenn du es spielst. Jedes Spiel erfordert seine eigene Übung",
+    "array": [
+      {
+        "name": "Drachenschach-Spielsatz",
+        "kosten": 100,
+        "gewicht": 0.5
+      },
+      {
+        "name": "Satz Spielkarten",
+        "kosten": 50,
+        "gewicht": 0
+      },
+      {
+        "name": "Satz Würfel",
+        "kosten": 10,
+        "gewicht": 0
+      },
+      {
+        "name": "Drei-Drachen-Kartensatz",
+        "kosten": 100,
+        "gewicht": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,299 @@
+[
+  {
+    "kategorie": "Einfache Nahkampfwaffen",
+    "name": "Beil",
+    "kosten": 500,
+    "schaden": "1W6 Hieb",
+    "gewicht": 2,
+    "eigenschaft": "Leicht, Wurfwaffe (Reichweite 6/18)"
+  },
+
+  {
+    "kategorie": "Einfache Nahkampfwaffen",
+    "name": "Dolch",
+    "kosten": 200,
+    "schaden": "1W4 Stich",
+    "gewicht": 1,
+    "eigenschaft": "Finesse, leicht, Wurfwaffe (Reichweite 6/18)"
+  },
+  {
+    "kategorie": "Einfache Nahkampfwaffen",
+    "name": "Hammer, leicht",
+    "kosten": 200,
+    "schaden": "1W4 Wucht",
+    "gewicht": 2,
+    "eigenschaft": "Leicht, Wurfwaffe (Reichweite 6/18)"
+  },
+  {
+    "kategorie": "Einfache Nahkampfwaffen",
+    "name": "Kampfstab",
+    "kosten": 20,
+    "schaden": "1W6 Wucht",
+    "gewicht": 4,
+    "eigenschaft": "Vielseitig"
+  },
+  {
+    "kategorie": "Einfache Nahkampfwaffen",
+    "name": "knueppel",
+    "kosten": 10,
+    "schaden": "1W4 Wucht",
+    "gewicht": 2,
+    "eigenschaft": "Leicht"
+  },
+  {
+    "kategorie": "Einfache Nahkampfwaffen",
+    "name": "Sichel",
+    "kosten": 100,
+    "schaden": "1W4 Hieb",
+    "gewicht": 2,
+    "eigenschaft": "Leicht"
+  },
+  {
+    "kategorie": "Einfache Nahkampfwaffen",
+    "name": "Speer",
+    "kosten": 100,
+    "schaden": "1W6 Stich",
+    "gewicht": 3,
+    "eigenschaft": "Wurfwaffe (Reichweite 6/18), vielseitig(1W8)"
+  },
+  {
+    "kategorie": "Einfache Nahkampfwaffen",
+    "name": "Streitkolben",
+    "kosten": 500,
+    "schaden": "1W6 Wucht",
+    "gewicht": 4,
+    "eigenschaft": "-"
+  },
+  {
+    "kategorie": "Einfache Nahkampfwaffen",
+    "name": "Wurfspeer",
+    "kosten": 50,
+    "schaden": "1W6 Stich",
+    "gewicht": 2,
+    "eigenschaft": "Wurfwaffe (Reichweite 9/36)"
+  },
+  {
+    "kategorie": "Einfache Nahkampfwaffen",
+    "name": "ZweihandKnueppel",
+    "kosten": 20,
+    "schaden": "1W8 Wucht",
+    "gewicht": 10,
+    "eigenschaft": "Zweihaendig"
+  },
+  {
+    "kategorie": "Einfache Fernkampfwaffen",
+    "name": "Armbrust leicht",
+    "kosten": 2500,
+    "schaden": "1W8 Stich",
+    "gewicht": 5,
+    "eigenschaft": "Geschosse (Reichweite 24/96, laden, zweihaendig"
+  },
+  {
+    "kategorie": "Einfache Fernkampfwaffen",
+    "name": "Kurzbgen",
+    "kosten": 2500,
+    "schaden": "1W6 Stich",
+    "gewicht": 2,
+    "eigenschaft": "Geschosse (Reichweite 24/96, zweihaendig"
+  },
+  {
+    "kategorie": "Einfache Fernkampfwaffen",
+    "name": "Schleuder",
+    "kosten": 10,
+    "schaden": "1W8 Stich",
+    "gewicht": 0,
+    "eigenschaft": "Geschosse (Reichweite 9/36)"
+  },
+  {
+    "kategorie": "Einfache Fernkampfwaffen",
+    "name": "Wurfpfeil",
+    "kosten": 5,
+    "schaden": "1W4 Stich",
+    "gewicht": 0.25,
+    "eigenschaft": "Finesse, Wurfwaffe (Reichweite 6/18)"
+  },
+  {
+    "kategorie": "Nahkampf-Kriegswaffen",
+    "name": "Dreizack",
+    "kosten": 500,
+    "schaden": "1W6 Stich",
+    "gewicht": 4,
+    "eigenschaft": "Wurfwaffe (Reichweite 6/18), vielseitig(1W8)"
+  },
+  {
+    "kategorie": "Nahkampf-Kriegswaffen",
+    "name": "Flegel",
+    "kosten": 1000,
+    "schaden": "1W8 Wucht",
+    "gewicht": 2,
+    "eigenschaft": "-"
+  },
+  {
+    "kategorie": "Nahkampf-Kriegswaffen",
+    "name": "Gleve",
+    "kosten": 2000,
+    "schaden": "1W10 Hieb",
+    "gewicht": 6,
+    "eigenschaft": "schwer, weitreichend, zweihaendig"
+  },
+  {
+    "kategorie": "Nahkampf-Kriegswaffen",
+    "name": "Hellebarde",
+    "kosten": 2000,
+    "schaden": "1W10 Hieb",
+    "gewicht": 6,
+    "eigenschaft": "schwer, weitreichend, zweihaendig"
+  },
+  {
+    "kategorie": "Nahkampf-Kriegswaffen",
+    "name": "Kriegshacke",
+    "kosten": 500,
+    "schaden": "1W8 Stich",
+    "gewicht": 2,
+    "eigenschaft": "-"
+  },
+  {
+    "kategorie": "Nahkampf-Kriegswaffen",
+    "name": "Kriegshammer",
+    "kosten": 1500,
+    "schaden": "1W8 Wucht",
+    "gewicht": 2,
+    "eigenschaft": "Vielseitig (1W10)"
+  },
+  {
+    "kategorie": "Nahkampf-Kriegswaffen",
+    "name": "Krumsaebel",
+    "kosten": 2500,
+    "schaden": "1W6 Hieb",
+    "gewicht": 3,
+    "eigenschaft": "Finesse, leicht"
+  },
+  {
+    "kategorie": "Nahkampf-Kriegswaffen",
+    "name": "Kurzschwert",
+    "kosten": 1000,
+    "schaden": "1W6 Stich",
+    "gewicht": 2,
+    "eigenschaft": "Finesse, leicht"
+  },
+  {
+    "kategorie": "Nahkampf-Kriegswaffen",
+    "name": "Langschwert",
+    "kosten": 1500,
+    "schaden": "1W8 Hieb",
+    "gewicht": 3,
+    "eigenschaft": "Vielseitig (1W10)"
+  },
+  {
+    "kategorie": "Nahkampf-Kriegswaffen",
+    "name": "Lanze",
+    "kosten": 1000,
+    "schaden": "1W12 Stich",
+    "gewicht": 6,
+    "eigenschaft": "weitreichend, speziell"
+  },
+  {
+    "kategorie": "Nahkampf-Kriegswaffen",
+    "name": "Morgenstern",
+    "kosten": 1500,
+    "schaden": "1W8 Stich",
+    "gewicht": 4,
+    "eigenschaft": "-"
+  },
+  {
+    "kategorie": "Nahkampf-Kriegswaffen",
+    "name": "Peitsche",
+    "kosten": 200,
+    "schaden": "1W4 Hieb",
+    "gewicht": 3,
+    "eigenschaft": "Finesse, weitreichend"
+  },
+  {
+    "kategorie": "Nahkampf-Kriegswaffen",
+    "name": "Pike",
+    "kosten": 500,
+    "schaden": "1W10 Stich",
+    "gewicht": 18,
+    "eigenschaft": "schwer, weitreichend, zweihaendig"
+  },
+  {
+    "kategorie": "Nahkampf-Kriegswaffen",
+    "name": "Rapier",
+    "kosten": 2500,
+    "schaden": "1W8 Stich",
+    "gewicht": 2,
+    "eigenschaft": "Finesse"
+  },
+  {
+    "kategorie": "Nahkampf-Kriegswaffen",
+    "name": "Streitaxt",
+    "kosten": 1000,
+    "schaden": "1W8 Hieb",
+    "gewicht in Pfd.": 4,
+    "eigenschaft": "Vielseitig (1W10)"
+  },
+  {
+    "kategorie": "Nahkampf-Kriegswaffen",
+    "name": "Zweihandaxt",
+    "kosten": 3000,
+    "schaden": "1W12 Hieb",
+    "gewicht": 7,
+    "eigenschaft": "schwer, zweihaendig"
+  },
+  {
+    "kategorie": "Nahkampf-Kriegswaffen",
+    "name": "Zweihandhammer",
+    "kosten": 1000,
+    "schaden": "2W6 Wucht",
+    "gewicht": 10,
+    "eigenschaft": "schwer, zweihaendig"
+  },
+  {
+    "kategorie": "Nahkampf-Kriegswaffen",
+    "name": "Zweihandschwert",
+    "kosten": 5000,
+    "schaden": "2W6 Hieb",
+    "gewicht": 6,
+    "eigenschaft": "schwer, zweihaendig"
+  },
+  {
+    "kategorie": "Fernkampf-Kriegswaffen",
+    "name": "Armbrust, Hand-",
+    "kosten": 7500,
+    "schaden": "1W6 Stich",
+    "gewicht": 3,
+    "eigenschaft": "Geschosse (Reichweite 9/36), leicht, laden"
+  },
+  {
+    "kategorie": "Fernkampf-Kriegswaffen",
+    "name": "Armbrust, schwere",
+    "kosten": 5000,
+    "schaden": "1W10 Stich",
+    "gewicht": 18,
+    "eigenschaft": "Geschosse (Reichweite 30/120), schwer, laden, zweihaendig"
+  },
+  {
+    "kategorie": "Fernkampf-Kriegswaffen",
+    "name": "Blasrohr",
+    "kosten": 1000,
+    "schaden": "1 Stich",
+    "gewicht": 1,
+    "eigenschaft": "Geschosse (Reichweite 7.50/30), laden"
+  },
+  {
+    "kategorie": "Fernkampf-Kriegswaffen",
+    "name": "Langbogen",
+    "kosten": 5000,
+    "schaden": "1W8 Stich",
+    "gewicht": 2,
+    "eigenschaft": "Geschosse (Reichweite 45/180), schwer, zweihaendig"
+  },
+  {
+    "kategorie": "Fernkampf-Kriegswaffen",
+    "name": "Netz",
+    "kosten": 100,
+    "schaden": "-",
+    "gewicht": 3,
+    "eigenschaft": "Speziell, Wurfwaffe (Reichweite 1.5/4.5)"
+  }
+]

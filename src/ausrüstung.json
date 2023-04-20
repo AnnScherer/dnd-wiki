@@ -1,0 +1,824 @@
+[
+  {
+    "name": "Arkaner Fokus",
+    "array": [
+      {
+        "name": "Arkaner Fokus",
+        "beschreibung": "Ein arkaner Fokus ist ein spezieller Gegenstand wie eine Kristallkugel, ein Edelstein, ein Stab, ein besonders gearbeiteter Stecken, ein zauberstabartiges Stück Holz oder ein ähnlicher Gegenstand, der dazu entworfen wurde die Kraft von arkanen Zaubern zu bündeln. Ein Zauberer, Hexenmeister oder Magier kann einen solchen Gegenstand als Zauberfokus verwenden, wie es im Kapitel 10 `Zauber wirken` beschrieben wird."
+      },
+      {
+        "name": "Kristall",
+        "kosten": 1000,
+        "gewicht": 1,
+        "kategorie": "Arkaner Fokus"
+      },
+      {
+        "name": "Kugel",
+        "kosten": 2000,
+        "gewicht": 3,
+        "kategorie": "Arkaner Fokus"
+      },
+      {
+        "name": "Rute",
+        "kosten": 1000,
+        "gewicht": 2,
+        "kategorie": "Arkaner Fokus"
+      },
+      {
+        "name": "Stab",
+        "kosten": 500,
+        "gewicht": 4,
+        "kategorie": "Arkaner Fokus"
+      },
+      {
+        "name": "Zauberstab",
+        "kosten": 1000,
+        "gewicht": 1,
+        "kategorie": "Arkaner Fokus"
+      }
+    ]
+  },
+  {
+    "name": "Druidischer Fokus",
+    "array": [
+      {
+        "name": "Druidischer Fokus",
+        "beschreibung": "Ein druidischer Fokus kann ein Mistelzweig, ein Eibenstock oder ein anderer Gegenstand aus speziellem Holz sein, wie etwa ein Kampfstab. Es kann sich auch um ein Totemobjekt handeln, in das Federn, Fell, Knochen und Zähne eines heiligen Tieres eingearbeitet sind. Ein Druide kann ein solches Objekt als Zauberfokus verwenden, wie es in Kapitel 10 `Zauber wirken`."
+      },
+      {
+        "name": "Holzstab",
+        "kosten": 500,
+        "gewicht": 4,
+        "kategorie": "Druidischer Fokus"
+      },
+      {
+        "name": "Eibenzauberstab",
+        "kosten": 1000,
+        "gewicht": 1,
+        "kategorie": "Druidischer Fokus"
+      },
+      {
+        "name": "Mistelzweigsprössling",
+        "kosten": 100,
+        "gewicht": 0,
+        "kategorie": "Druidischer Fokus"
+      },
+      {
+        "name": "Totem",
+        "kosten": 100,
+        "gewicht": 0,
+        "kategorie": "Druidischer Fokus"
+      }
+    ]
+  },
+  {
+    "name": "Geschosse",
+    "array": [
+      {
+        "name": "Geschosse"
+      },
+
+      {
+        "name": "Armbrustbolzen (20 Stk.)",
+        "kosten": 100,
+        "gewicht": 1.5,
+        "kategorie": "Geschosse"
+      },
+      {
+        "name": "Blasrohrpfeile (50 Stk.)",
+        "kosten": 100,
+        "gewicht": 1,
+        "kategorie": "Geschosse"
+      },
+      {
+        "name": "Pfeile (20 Stk.)",
+        "kosten": 100,
+        "gewicht": 1,
+        "kategorie": "Geschosse"
+      },
+      {
+        "name": "Schleuderkugeln (20 Stk.)",
+        "kosten": 4,
+        "gewicht": 1.5,
+        "kategorie": "Geschosse"
+      }
+    ]
+  },
+  {
+    "name": "Heiliges Symbol",
+    "array": [
+      {
+        "name": "Heiliges Symbol",
+        "beschreibung": "Ein heiliges Symbol repräsentiert eine Gottheit oder ein Pantheon von Göttern. Es könnte auf ein Amulett geprägt, aber auch auf einen Schild graviert sein oder sich als Einlegearbeit auf diesem befinden. Auch eine kleine Schatulle mit einem winzigen Fragment einer heiligen Reliquie kann als heiliges Symbol dienen. Anhang B `Götter des Multiversums` führt das verbreitetste Symbol jeder Gottheit auf. Ein Kleriker oder Paladin kann das heilige Symbol als Zauberfokus verwenden, so wie es in Kapitel 10 `Zauber wirken` beschrieben wird. Um das heilige Symbol auf diese Weise nutzen zu können, muss man es sichtbar in einer Hand halten oder es muss auf einem Schild angebracht sein."
+      },
+      {
+        "name": "Amulett",
+        "kosten": 500,
+        "gewicht": 1,
+        "kategorie": "Heiliges Symbol"
+      },
+      {
+        "name": "Emblem",
+        "kosten": 500,
+        "gewicht": 0,
+        "kategorie": "Heiliges Symbol"
+      },
+      {
+        "name": "Reliquie",
+        "kosten": 500,
+        "gewicht": 2,
+        "kategorie": "Heiliges Symbol"
+      }
+    ]
+  },
+  {
+    "name": "Ausrüstungspakete",
+    "array": [
+      {
+        "name": "Ausrüstungspakete"
+      },
+      {
+        "name": "Diplomatenausrüstung",
+        "kosten": 3900,
+        "gewicht": 34,
+        "beschreibung": "Enthält eine Truhe, 2 Behälter für Karten und Schriftrollen, einen Satz feine Kleidung. eine Flasche Tinte, eine Schreibfeder, eine Lampe, 2 Flaschen Öl, 5 Blatt Papier, eine Phiole mit Parfüm, Siegelwachs und Selfe.",
+        "kategorie": "Ausrüstungspakete"
+      },
+      {
+        "name": "Einbrecherausrüstung",
+        "kosten": 1600,
+        "gewicht": 46.5,
+        "beschreibung": "Enthält einen Rucksack, einen Beutel mit 1.000 Metallkügelchen, eine 3 m lange Kette, eine Glocke, 5 Kerzen, eine Brechstange, einen Hammer, 10 Kletterhaken, eine abdeckbare Laterne, 2 Flaschen Öl, 5 Tagesrationen, ein Zunderkästchen, einen Trinkschlauch und ein 15 m langes Seil aus Hanf.",
+        "kategorie": "Ausrüstungspakete"
+      },
+      {
+        "name": "Entdeckerausrüstung",
+        "kosten": 100,
+        "gewicht": 49,
+        "beschreibung": "Enthält einen Rucksack einen Schlafsack, ein Reisegeschirr, ein Zunderkästchen, 10 Fackeln, 10 Tagesrationen, einen Trinkschlauch und ein 15 m langes Seil aus Hanf.",
+        "kategorie": "Ausrüstungspakete"
+      },
+      {
+        "name": "Gelehrtenausrüstung",
+        "kosten": 400,
+        "gewicht": 5,
+        "beschreibung": "Enthält einen Rucksack, ein Buch mit Überlieferungen, eine Flasche Tinte, eine Schreibfeder, 10 Blätter Pergament, einen kleinen Beutel mit Sand und ein kleines Messer.",
+        "kategorie": "Ausrüstungspakete"
+      },
+      {
+        "name": "Gewölbeforscherausrüstung",
+        "kosten": 1200,
+        "gewicht": 51.5,
+        "beschreibung": "Enthält einen Rucksack, eine Brechstange, einen Hammer, 10 Kletterhaken, 10 Fackeln, ein Zunderkästchen, 10 Tagesrationen, einen Trinkschlauch und ein 15 m langes Seil aus Hanf.",
+        "kategorie": "Ausrüstungspakete"
+      },
+      {
+        "name": "Priesterausrüstung",
+        "kosten": 1900,
+        "gewicht": 12,
+        "beschreibung": "Enthält einen Rucksack, eine Decke, 10 Kerzen, ein Zunderkästchen, eine Opferbüchse, 2 Blöcke, Räucherwerk, ein Räuchergefäß, Gewänder, 2 Tagesrationen und einen Trinkschlauch.",
+        "kategorie": "Ausrüstungspakete"
+      },
+      {
+        "name": "Unterhaltungskünstler-ausrüstung",
+        "kosten": 4000,
+        "gewicht": 28,
+        "beschreibung": "Enthält einen Rucksack, einen Schlafsack, 2 Kostüme, 5 Kerzen, 5 Tagesrationen, einen Trinkschlauch und eine Verkleidungsausrüstung.",
+        "kategorie": "Ausrüstungspakete"
+      }
+    ]
+  },
+  {
+    "name": "Behälterkapazitäten",
+    "array": [
+      {
+        "name": "Behälterkapazitäten"
+      },
+      {
+        "name": "Becher oder Tonhumpen",
+        "fassungsvermögen": 500,
+        "kapazität": 0,
+        "kategorie": "Behälterkapazitäten"
+      },
+      {
+        "name": "Beutel",
+        "fassungsvermögen": 6000,
+        "kapazität": 6,
+        "kategorie": "Behälterkapazitäten"
+      },
+      {
+        "name": "Eimer",
+        "fassungsvermögen": 12000,
+        "kapazität": 0,
+        "kategorie": "Behälterkapazitäten"
+      },
+      {
+        "name": "Eisenstopf",
+        "fassungsvermögen": 4000,
+        "kapazität": 0,
+        "kategorie": "Behälterkapazitäten"
+      },
+      {
+        "name": "Fass",
+        "fassungsvermögen": 160000,
+        "kapazität": 0,
+        "kategorie": "Behälterkapazitäten"
+      },
+      {
+        "name": "Flasche",
+        "fassungsvermögen": 750,
+        "kapazität": 0,
+        "kategorie": "Behälterkapazitäten"
+      },
+      {
+        "name": "Kiste",
+        "fassungsvermögen": 340000,
+        "kapazität": 300,
+        "kategorie": "Behälterkapazitäten"
+      },
+      {
+        "name": "Korb",
+        "fassungsvermögen": 60000,
+        "kapazität": 40,
+        "kategorie": "Behälterkapazitäten"
+      },
+      {
+        "name": "Phiole",
+        "fassungsvermögen": 120,
+        "kapazität": 0,
+        "kategorie": "Behälterkapazitäten"
+      },
+      {
+        "name": "Rucksack",
+        "fassungsvermögen": 30000,
+        "kapazität": 30,
+        "beschreibung": "Du kannst auch Gegenstände außen an dem Rucksack festzurren, wie etwa einen Schlafsack oder ein Seil.",
+        "kategorie": "Behälterkapazitäten"
+      },
+      {
+        "name": "Sack",
+        "fassungsvermögen": 30000,
+        "kapazität": 30,
+        "kategorie": "Behälterkapazitäten"
+      },
+      {
+        "name": "Tonkrug oder Kanne",
+        "fassungsvermögen": 4000,
+        "kapazität": 0,
+        "kategorie": "Behälterkapazitäten"
+      },
+      {
+        "name": "Trinkschlauch",
+        "fassungsvermögen": 2000,
+        "kapazität": 0,
+        "kategorie": "Behälterkapazitäten"
+      }
+    ]
+  },
+  {
+    "name": "Items",
+    "array": [
+      {
+        "name": "Abakus",
+        "kosten": 200,
+        "gewicht": 2,
+        "kategorie": "Item",
+        "beschreibung": "Ein Rechengerät, bei dem die Zahlen durch auf Stäben verschiebbare Kugeln dargestellt werden."
+      },
+      {
+        "name": "Alchemistenfeuer (Flasche)",
+        "kosten": 5000,
+        "gewicht": 1,
+        "kategorie": "Item",
+        "beschreibung": "Diese zähe, klebrige Flüssigkeit entzündet sich, wenn sie in Kontakt mit Luft kommt. Als Aktion kannst du das Fläschchen bis zu 6 m weit werfen, wo es beim Aufprall zerspringt. Führe einen Fernkampfangriff gegen ein Objekt oder eine Kreatur aus, wobei das Alchemistenfeuer als improvisierte Waffe behandelt wird. Bei einem Treffer erleidet das Ziel zu Beginn jedes seiner Züge  1W4 Feuerschaden. Eine Kreatur kann diesen Schaden beenden indem es eine Aktion aufwendet und einen Geschicklichkeitswurf gegen SG 10 ablegt um die Flammen zu löschen."
+      },
+      {
+        "name": "Angelausrüstung",
+        "kosten": 100,
+        "gewicht": 4,
+        "kategorie": "Item",
+        "beschreibung": "Diese Zusammenstellung beinhatelt eine Angelrute, Angelschnur, Korkschwimmer, Stahlhaken, Bleigewichte, Seidenköder und engmaschige Netze."
+      },
+
+      {
+        "name": "Behälter (Armbrustbolzen)",
+        "kosten": 100,
+        "gewicht": 1,
+        "kategorie": "Item",
+        "beschreibung": "Dieser hölzerne Kasten fasst bis zu 20 Armbrustbolzen."
+      },
+      {
+        "name": "Behälter (Karten und Schriftrollen)",
+        "kosten": 100,
+        "gewicht": 1,
+        "kategorie": "Item",
+        "beschreibung": "Dieser zylindrische Lederbehälter kann bis zu zehn zusammengerollte Blatt Papier oder fünf zusammengerollte Blatt Pergament enthalten."
+      },
+      {
+        "name": "Brechstange",
+        "kosten": 200,
+        "gewicht": 5,
+        "kategorie": "Item",
+        "beschreibung": "Verwendest du eine Brechstange als Hebel, bist du im Vorteil bei entsprechenden Stärkewürfen."
+      },
+      {
+        "name": "Buch",
+        "kosten": 2500,
+        "gewicht": 5,
+        "kategorie": "Item",
+        "beschreibung": "Ein Buch könnte Pösie, geschichtliche Aufzeichnungen, Informationen über ein bestimmtes Fachgebiet, Diagramme und Notizen zu gnomischen Apparaten oder jeglichem anderen Inhalte nthalten, den man mit Text und Zeichnungen festhalten kann. Ein Buch mit Zaubernsprüchen ist ein Zauberbuch (siehe weiter unten in diesem Abschnitt)."
+      },
+      {
+        "name": "Decke",
+        "kosten": 500,
+        "kategorie": "Item",
+        "gewicht": 3
+      },
+      {
+        "name": "Drei-Schritt-Stange (3 m)",
+        "kosten": 500,
+        "kategorie": "Item",
+        "gewicht": 7
+      },
+
+      {
+        "name": "Eimer",
+        "kosten": 500,
+        "kategorie": "Item",
+        "gewicht": 2
+      },
+      {
+        "name": "Eisenkeile (10)",
+        "kosten": 100,
+        "kategorie": "Item",
+        "gewicht": 5
+      },
+      {
+        "name": "Enterhaken",
+        "kosten": 200,
+        "kategorie": "Item",
+        "gewicht": 4
+      },
+      {
+        "name": "Fackel",
+        "kosten": 100,
+        "kategorie": "Item",
+        "gewicht": 1,
+        "beschreibung": "Eine Fackel brennt 1 Stunde lang und liefert im Umkreis von 6 m helles Licht sowie in weiteren 6 m Abstand dämmriges Licht. Wenn du mit der Fackel einen Nahkampfangriff ausführst und triffst, verursachst du 1 Punkt Feuerschaden."
+      },
+      {
+        "name": "Fangeisen (Falle)",
+        "kosten": 500,
+        "kategorie": "Item",
+        "gewicht": 25,
+        "beschreibung": "Als Aktion kannst du das Fangeisen auslegen und einsatzbereit machen. Der sägezahnbesetzte Stahlring schnappt zusammen, sobald eine Kreatur auf die Druckplatte in dessen Mitte tritt. Die Falle wird an einer Kette an einem unbeweglichen Objekt befestigt, wie etwa einem Baum oder einem im Boden steckenden Pfahl. Eine Kreatur, die auf die Druckplatte tritt, muss einen Geschicklichkeitsrettungswurf gegen SG 13 ablegen. Bei einem Misserfolg erleidet sie 1W4 Stichschaden und ihre Bewegung ist beendet. Anschließend ist die Bewegungsfreiheit der Kreatur durch die Kette eingeschränkt, bis sie sich befreien kann. Eine Kreatur kann ihre Aktion dazu verwenden, um einen Stärkewurf gegen SG 13 abzulegen. Bei einem Erfolg kann sie sich selbst oder eine Kreatur in Reichweite befreien. Jeder erfolglose Versuch fügt der gefangenen Kreatur 1 Punkt Stichschaden zu. Die Kette ist typischerweise 1 m lang."
+      },
+      {
+        "name": "Fass",
+        "kosten": 200,
+        "kategorie": "Item",
+        "gewicht": 70
+      },
+      {
+        "name": "Fernglas",
+        "kosten": 100000,
+        "kategorie": "Item",
+        "gewicht": 1,
+        "beschreibung": "Objekte, die durch ein Fernglas betrachtet werden, erscheinen doppelt so groß."
+      },
+      {
+        "name": "Becher oder Tonhumpen",
+        "kosten": 2,
+        "kategorie": "Item",
+        "gewicht": 1
+      },
+      {
+        "name": "Flaschenzug",
+        "kosten": 100,
+        "kategorie": "Item",
+        "gewicht": 5,
+        "beschreibung": "Bestehend aus Seilen, Rollen und einem Holzblock, an dem ein Haken befestigt ist, dient der Flaschnzug dazu bis zu viermal höheres Gewicht an zu heben als dies ohne ihn möglich wäre."
+      },
+      {
+        "name": "Gegengift (Phiole)",
+        "kosten": 5000,
+        "kategorie": "Item",
+        "gewicht": 0,
+        "beschreibung": " Eine Kreatur, die diese Phiole mit Flüssgkeit trinkt ist für die nächste Stunde bei ihren Rettungswürfen gegen Gifte im Vorteil. Untote und Konstrukte können Vorteil nicht erhalten."
+      },
+
+      {
+        "name": "Gift, einfach (Phiole)",
+        "kosten": 10000,
+        "kategorie": "Item",
+        "gewicht": 0,
+        "beschreibung": "Du kannst das Gift in diesem Gefäß verwenden, um als Aktion eine Hieb- oder Stichwaffe oder 3 Geschosse zu vergiften. Eine Kreatur die von einer vergifteten Waffe oder einem vergifteten Geschoss getroffen wird, muss einen Konstitutionsrettungswurf gegen SG 10 ablegen oder nimmt 1W4 Giftschaden. Ist das Gift erst einmal aufgetragen, behält es seine Wirksamkeit für 1 Minute bevor es eintrocknet."
+      },
+      {
+        "name": "Glasflasche",
+        "kosten": 200,
+        "kategorie": "Item",
+        "gewicht": 2
+      },
+      {
+        "name": "Glocke",
+        "kosten": 100,
+        "kategorie": "Item",
+        "gewicht": 0
+      },
+      {
+        "name": "Hammer",
+        "kosten": 100,
+        "kategorie": "Item",
+        "gewicht": 3
+      },
+      {
+        "name": "Handschellen",
+        "kosten": 200,
+        "kategorie": "Item",
+        "gewicht": 6,
+        "beschreibung": "Diese metallenen Fesseln können einer kleinen oder mittelgroßen Kreatur angelegt werden. Sich den Handschellen zu entwinden erfordert einen erfolgreichen Geschicklichkeitswurf gegen SG 20. Mit einem Stärkewurf gegen SG 20 können sie auch aufgebrochen werden. Jedem Paar Handschellen liegt ein Schlüssel bei. Eine Kreatur die geübt im Umgang mit Diebeswerkzeug ist kann die Handschellen auch ohne Schlüssel mit einem erfolgreichen Geschicklichkeitswurf gegen SG 15 öffnen. Handschellen haben 15 Trefferpunkte."
+      },
+      {
+        "name": "Heilerausrüstung",
+        "kosten": 500,
+        "kategorie": "Item",
+        "gewicht": 3,
+        "beschreibung": "Dieses Set ist ein Lederbeutel der Bandagen, Salben und Schienen enthält.Es reicht für zehn Anwendungen. Als Aktion kannst du eine Anwendung aufbrauchen um eine Kreatur mit O Trefferpunkten zu staibilisieren ohne dass du einen Wurf auf Weisheit (Heilkunde) ablegen musst"
+      },
+      {
+        "name": "Heiltrank",
+        "kosten": 5000,
+        "gewicht": 0.5,
+        "kategorie": "Item",
+        "beschreibung": "Ein Charakter der die magische rote Flüssigkeit aus der Phiole trinkt erhält 2W4 + 2 Trefferpm1kte zurück. Den Trank zu trinken oder zu verabreichen benötigt eine Aktion."
+      },
+      {
+        "name": "Kaufmannswaage",
+        "kosten": 500,
+        "gewicht": 3,
+        "kategorie": "Item",
+        "beschreibung": "Eine Waage besteht aus einem Gegengewicht, zwei Waagschalen und einem passenden Sortiment an Gewichten von bis zu zwei Pfund. Mit ihrer Hilfe kannst du das genaü Gewicht von kleinen Gegenständen wie Rohmaterialien oder Handelsgütern abwiegen und so ihren Wert bestimmen."
+      },
+      {
+        "name": "Kerze",
+        "kosten": 100,
+        "kategorie": "Item",
+        "gewicht": 0,
+        "beschreibung": "Eine Kerze spendet für l Stunde helles Licht in einem Radius von 1,50 m und dämmriges Licht in weiteren 1,50 m Entfernung."
+      },
+      {
+        "name": "Kette (3 m)",
+        "kosten": 500,
+        "kategorie": "Item",
+        "gewicht": 10,
+        "beschreibung": "Eine Kette hat 10 Trefferpunkte. Sie kann mit einem erfolgreichen Stärkewurf gegen SG 20 gesprengt werden."
+      },
+      {
+        "name": "Kiste",
+        "kosten": 500,
+        "kategorie": "Item",
+        "gewicht": 25
+      },
+      {
+        "name": "Kleidung, fein",
+        "kosten": 1500,
+        "kategorie": "Item",
+        "gewicht": 6
+      },
+      {
+        "name": "Kleidung gewöhnlich",
+        "kosten": 500,
+        "kategorie": "Item",
+        "gewicht": 3
+      },
+      {
+        "name": "Kleidung, Kostüm",
+        "kosten": 500,
+        "kategorie": "Item",
+        "gewicht": 4
+      },
+      {
+        "name": "Kleidung, Reise",
+        "kosten": 200,
+        "kategorie": "Item",
+        "gewicht": 4
+      },
+      {
+        "name": "Kletterausrüstung",
+        "kosten": 2500,
+        "kategorie": "Item",
+        "gewicht": 12,
+        "beschreibung": "Eine Kletterausrüstung beinhaltet spezielle Felshaken. Steigeisen, Handschuhe und einen Klettergurt. Als Aktion kannst du die Kletterausrüstung nutzen, um dich in einer Wand zu verankern. Von dem Punkt, an dem du dich verankert hast, kannst du nicht tiefer als 7,50 m fallen und dich nicht weiter als 7,50 m entfernen, ohne die Verankerung zu lösen."
+      },
+      {
+        "name": "Kletterhaken",
+        "kosten": 5,
+        "kategorie": "Item",
+        "gewicht": 0.25
+      },
+      {
+        "name": "Köcher",
+        "kosten": 100,
+        "kategorie": "Item",
+        "gewicht": 1,
+        "beschreibung": "Ein Köcher fasst bis zu 20 Pfeile."
+      },
+      {
+        "name": "Korb",
+        "kosten": 40,
+        "kategorie": "Item",
+        "gewicht": 2
+      },
+      {
+        "name": "Krähenfüsse (Beutel, 20 Stk.)",
+        "kosten": 100,
+        "kategorie": "Item",
+        "gewicht": 2,
+        "Beschreibungq": "Als Aktion kannst du die Krähenfüße in diesem Beutel über einen Bereich mit höchstens 1,50 m Seitenlänge verteilen. Jede Kreatur, die den Bereich betritt, muss einen erfolgreichen Geschicklichkeitsrettungswurf gegen SG 15 ablegen oder sie erleidet 1 Punkt Stichschaden und ihre Bewegung ist beendet. Erleidet sie diesen Schaden, ist die Bewegungsrate der Kreatur um 3 m verringert bis sie mindestens 1 Trefferpunkt wiedererlangL Eine Kreatur, die sich nur mit halber Bewegungsrate durch den Bereich bewegt, muss keinen Rettungswurf ablegen. Fliegende Kreaturen werden von Krähenfüßen nicht beeinflusst."
+      },
+      {
+        "name": "Kreide (1 Stk.)",
+        "kosten": 1,
+        "kategorie": "Item",
+        "gewicht": 0
+      },
+      {
+        "name": "Lampe",
+        "kosten": 50,
+        "kategorie": "Item",
+        "gewicht": 1,
+        "beschreibung": "Eine Lampe verbreitet helles Licht in einem Radius von 4,50 m und dämmriges Licht im Umkreis von weiteren 9 m. Ab dem Entfachen brennt die Lampe mit einem Fläschchen Öl (0,5 l) für 6 Stunden."
+      },
+      {
+        "name": "Laterne, abdeckbar",
+        "kosten": 500,
+        "kategorie": "Item",
+        "gewicht": 2,
+        "beschreibung": "Die abdeckbare Laterne erhellt einen Umkreis von 9 m mit hellem Licht und weitere 9 m mit dämmrigem Licht. Nach dem Entzünden brennt sie mit einem Fläschchen Öl (0,5 l) 6 Stunden lang. Im Rahmen einer Aktion kannst du die Abdeckung herunterlassen und das Licht der Laterne auf einen Radius von 1,50 m aus dämmrigem Licht reduzieren."
+      },
+      {
+        "name": "Laterne, Blend",
+        "kosten": 1000,
+        "kategorie": "Item",
+        "gewicht": 2,
+        "beschreibung": "Eine Blendlaterne wirft einen 18 m langen Kegel hellen Lichts, der weitere 18 m in dämmriges Licht taucht. Einmal entfacht, brennt die Laterne mit einem Fläschchen Öl (0,5 l) für 6 Stunden."
+      },
+      {
+        "name": "Leiter (3 m)",
+        "kosten": 10,
+        "kategorie": "Item",
+        "gewicht": 25,
+        "beschreibung": ""
+      },
+      {
+        "name": "Materialkomponentenbeutel",
+        "kosten": 2500,
+        "gewicht": 2,
+        "kategorie": "Item",
+        "beschreibung": "Ein Materialkomponentenbeutel ist eine kleine, wasserdichte Ledergürteltasche. In ihm befinden sich in separaten Fächern all jene Materialien und anderen speziellen Gegenstände, die du zum Wirken deiner Zauber benötigst. Komponenten, die in der Beschreibung des Zaubers mit Kosten aufgeführt sind, sind nicht im Beutel enthalten."
+      },
+      {
+        "name": "Metallkügelchen (Beutel, 1000 Stk.)",
+        "kosten": 100,
+        "gewicht": 2,
+        "kategorie": "Item",
+        "beschreibung": "Als Aktion kannst du die kleinen Metallkugeln auf einer Fläche verschütten, die höchstens 3 m pro Seite misst. Eine Kreatur, die sich über die bedeckte Fläche (die eben sein muss) bewegt, muss einen erfolgreichen Geschicklichkeitsrettungswurf gegen SG 10 ablegen, um nicht hinzu fallen und den Zustand liegend zu erhalten. Eine Kreatur, die sich nur mit halber Bewegungsrate durch diesen Bereich bewegt, muss keinen Rettungswurf ablegen."
+      },
+      {
+        "name": "öl (Flasche)",
+        "kosten": 10,
+        "gewicht": 1,
+        "kategorie": "Item",
+        "beschreibung": "Öl wird üblicherweise in tönernen Flaschen verkauft die 0,5 Liter enthalten. Als Aktion kannst du das Öl auf eine Kreatur innerhalb von 1,50 m schütten oder es bis zu 6 m weit werfen, wo das Fläschchen beim Aufprall zerbricht. In beiden Fällen führst du einen Fernkampfangriff gegen das Objekt oder die Kreatur aus, wobei das Ölfläschchen als improvisierte Waffe behandelt wird. Bei einem Treffer ist das Ziel mit Öl benetzt. Erleidet es Feuerschaden, bevor das Öl eintrocknet (nach 1 Minute), fügt ihm das Öl weitere 5 Punkte Feuerschaden zu. Du kannst ein Fläschchen auch auf dem Boden ausleeren und eine Fläche von 1,50 m x 1,50 m mit Öl bedecken, vorausgesetzt der Boden ist eben. Wird es entzündet, brennt das Öl für 2 Runden und fügt jeder Kreatur, die den Bereich betritt oder ihren Zug in diesem beendet, 5 Punkte Feuerschaden zu."
+      },
+      {
+        "name": "Papier (1 Blatt)",
+        "kosten": 20,
+        "gewicht": 0,
+        "kategorie": "Item"
+      },
+      {
+        "name": "Parfüm (Phiole)",
+        "kosten": 500,
+        "gewicht": 0,
+        "kategorie": "Item"
+      },
+      {
+        "name": "Pergament (1 Blatt)",
+        "kosten": 10,
+        "kategorie": "Item",
+        "gewicht": 0
+      },
+      {
+        "name": "Phiole",
+        "kosten": 100,
+        "kategorie": "Item",
+        "gewicht": 0
+      },
+      {
+        "name": "Rammbock, tragbar",
+        "kosten": 400,
+        "kategorie": "Item",
+        "gewicht": 35,
+        "beschreibung": "Du kannst den tragbaren Rammbock dazu verwenden um Türen einzuschlagen. In diesem Fall erhältst du einen Bonus von +4 auf deinen Stärkewurf. Hilft dir ein weiterer Charakter den Rammbock zu benutzen, bist du bei deinem Wurf im Vorteil."
+      },
+      {
+        "name": "Rationen (1Tag)",
+        "kosten": 50,
+        "kategorie": "Item",
+        "gewicht": 2,
+        "beschreibung": "Rationen bestehen aus getrocknetem Essen, das für lange Reisen geeignet ist. Darunter findet man Dörrfleisch, Trockenfrüchte, Nüsse und Hartkäse"
+      },
+      {
+        "name": "Reisegschirr",
+        "kosten": 20,
+        "kategorie": "Item",
+        "gewicht": 1,
+        "beschreibung": "Diese Blechdose enthält einen Becher und einfaches Besteck. Die Blechdose ist zusammengesteckt, so dass eine Seite als Pfanne und die andere als Teller oder flache Schale verwendet werden kann."
+      },
+      {
+        "name": "Roben",
+        "kosten": 100,
+        "kategorie": "Item",
+        "gewicht": 4
+      },
+      {
+        "name": "Rucksack",
+        "kosten": 200,
+        "kategorie": "Item",
+        "gewicht": 5
+      },
+      {
+        "name": "Sack",
+        "kosten": 1,
+        "kategorie": "Item",
+        "gewicht": 0.5
+      },
+      {
+        "name": "Sanduhr",
+        "kosten": 2500,
+        "kategorie": "Item",
+        "gewicht": 1
+      },
+      {
+        "name": "Säure (Phiole)",
+        "kosten": 2500,
+        "kategorie": "Item",
+        "gewicht": 1,
+        "beschreibung": "Als Aktion kannst du den Inhalt dieser Phiole auf eine Kreatur innerhalb von 1,50 m verspritzen oder die Phiole bis zu 6 m weit werfen, wo sie beim Aufprall zerbricht. In beiden Fällen führst du gegen das Objekt oder die Kreatur einen Fernkampfangriff aus, bei dem die Säure als improvisierte Waffe behandelt wird. Bei einem Treffer erleidet das Ziel 2W6 Säureschaden."
+      },
+      {
+        "name": "Schaufel",
+        "kosten": 200,
+        "kategorie": "Item",
+        "gewicht": 5
+      },
+      {
+        "name": "Schlafsack",
+        "kosten": 100,
+        "kategorie": "Item",
+        "gewicht": 7
+      },
+      {
+        "name": "Schloss",
+        "kosten": 1000,
+        "kategorie": "Item",
+        "gewicht": 1,
+        "beschreibung": "Jedes Schloss wird mit einem passenden Schlüssel verkauft. Eine Kreatur, die geübt im Umgang mit Diebeswerkzeug ist, kann das Schloss auch ohne den Schlüssel mit einem erfolgreichen Geschicklichkeitswurf gegen SG 15 öffnen. Dein SL kann bestimmen, ob es für mehr Geld bessere Schlosser zu kaufen gibt."
+      },
+      {
+        "name": "Schreibfeder",
+        "kosten": 2,
+        "gewicht": 0,
+        "kategorie": "Item"
+      },
+      {
+        "name": "Seife",
+        "kosten": 2,
+        "kategorie": "Item",
+        "gewicht": 0
+      },
+      {
+        "name": "Seil aus Hanf (15 m)",
+        "kosten": 100,
+        "kategorie": "Item",
+        "gewicht": 10,
+        "beschreibung": "Seile, ob aus Hanf oder Seide gefertigt, haben 2 Trefferpunkte und können mit einem Stärkewurf gegen SG 17 zerrissen werden."
+      },
+      {
+        "name": "Seil aus Seide (15 m)",
+        "kosten": 1000,
+        "kategorie": "Item",
+        "gewicht": 5,
+        "beschreibung": "Seile, ob aus Hanf oder Seide gefertigt, haben 2 Trefferpunkte und können mit einem Stärkewurf gegen SG 17 zerrissen werden."
+      },
+      {
+        "name": "Siegelring",
+        "kosten": 500,
+        "gewicht": 0,
+        "kategorie": "Item"
+      },
+      {
+        "name": "Siegelwachs",
+        "kosten": 50,
+        "gewicht": 0,
+        "kategorie": "Item"
+      },
+      {
+        "name": "Signalpfeife",
+        "kosten": 5,
+        "kategorie": "Item",
+        "gewicht": 0
+      },
+      {
+        "name": "Spitzhacke",
+        "kosten": 200,
+        "kategorie": "Item",
+        "gewicht": 10
+      },
+      {
+        "name": "Spiegel, Stahl-",
+        "kosten": 500,
+        "gewicht": 0,
+        "kategorie": "Item"
+      },
+      {
+        "name": "Beutel",
+        "kosten": 50,
+        "kategorie": "Item",
+        "gewicht": 1
+      },
+      {
+        "name": "Tinte (Flasche, 30ml)",
+        "kosten": 1000,
+        "kategorie": "Item",
+        "gewicht": 0
+      },
+      {
+        "name": "Tonkrug oder Kanne",
+        "kosten": 2,
+        "kategorie": "Item",
+        "gewicht": 4
+      },
+      {
+        "name": "Topf, Eisen",
+        "kosten": 200,
+        "kategorie": "Item",
+        "gewicht": 10
+      },
+      {
+        "name": "Trinkschlauch",
+        "kosten": 20,
+        "kategorie": "Item",
+        "gewicht": 0
+      },
+      {
+        "name": "Vergrösserungsglas",
+        "kosten": 10000,
+        "kategorie": "Item",
+        "gewicht": 0,
+        "beschreibung": "Diese Linse ermöglicht einen besseren Blick auf kleine Objekte. Verwendest du ein Vergrössrungsglas bist du im Vorteil bei jeglichen Fertigkeitswürfen die mit der Untersuchung oder dem Schätzen eines Objekts in Verbindung stehen das klein oder sehr detailliert ist. Die Linse ist auch hilfreich als Ersatz für Feuerstein und Stahl. Ein Feuer mit dem Vergrößerungsglas zu entfachen erfordert taghelles Licht um die Strahlen zu bündeln, Zunder und etwa 5 Minuten Zeit bis der Zunder brennt"
+      },
+      {
+        "name": "Vorschlaghammer",
+        "kosten": 200,
+        "kategorie": "Item",
+        "gewicht": 10
+      },
+      {
+        "name": "Weihwasser (Flasche)",
+        "kosten": 2500,
+        "kategorie": "Item",
+        "gewicht": 1,
+        "beschreibung": "Als Aktion kannst du den Inhalt des Fläschens auf eine Kreatur innerhalb von 1,50 m verspritzen oder dieses bis zu 6 m weit werfen, wo es beim Aufprall zerbricht. In beiden Fällen führst du einen Fernkampfangriff gegen die Zielkreatur aus, wobei das Weihwasser als improvisierte Waffe behandelt wird. Wenn das Ziel ein Untoter oder ein Unhold ist. nimmt es 2W6 gleißenden Schaden. Ein Kleriker oder ein Paladin kann Weihwasser mit einem speziellen Ritual erschaffen. Das Ritual benötigt 1 Stunde. um durchgeführt zu werden, und verbraucht 25 GM an Silberstaub und einen Zauberplatz des 1. Grades."
+      },
+      {
+        "name": "Wetzstein",
+        "kosten": 1,
+        "kategorie": "Item",
+        "gewicht": 1
+      },
+      {
+        "name": "Zauberbuch",
+        "kosten": 5000,
+        "kategorie": "Item",
+        "gewicht": 3,
+        "beschreibung": "Unverzichtbar für Magier ist das Zauberbuch aus ledergebundene n 100 leeren Pergamcntseiten. Zelt: Ein einfacher und tragbarer Leinenunterschlupf in dem zwei Personen übernachten können."
+      },
+      {
+        "name": "Zelt (für 2 Personen)",
+        "kosten": 200,
+        "kategorie": "Item",
+        "gewicht": 20
+      },
+      {
+        "name": "Zunderkästchen",
+        "kosten": 50,
+        "kategorie": "Item",
+        "gewicht": 1,
+        "beschreibung": "Dieses kleine Kästchen enthält Feuerstein. Stahl und Zunder (in der Regel Stoff, der leicht mit Öl getränkt ist) um ein Feuer entfachen zu können. Zum Anzünden einer Fackel oder einem ähnlichen mit Brennstoff versehenen Gegenstand, benötigt man eine Aktion.Jedes andere Feuer zu entfachen daürt 1 Minute."
+      }
+    ]
+  }
+]

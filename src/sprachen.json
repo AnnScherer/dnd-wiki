@@ -1,0 +1,90 @@
+[
+  {
+    "Standardsprachen": [
+      {
+        "Sprache": "Gemeinsprache",
+        "Typische Voelker": "Menschen",
+        "Schrift": "Gemeinsprache"
+      },
+      {
+        "Sprache": "Zwergisch",
+        "Typische Voelker": "Zwerge",
+        "Schrift": "Zwergisch"
+      },
+      {
+        "Sprache": "Elfisch",
+        "Typische Voelker": "Elfen",
+        "Schrift": "Elfisch"
+      },
+      {
+        "Sprache": "Riesisch",
+        "Typische Voelker": "Oger,Riesen",
+        "Schrift": "Zwergisch"
+      },
+      {
+        "Sprache": "Gnomisch",
+        "Typische Voelker": "Gnome",
+        "Schrift": "Zwergisch"
+      },
+      {
+        "Sprache": "Goblinisch",
+        "Typische Voelker": "Goblinoide",
+        "Schrift": "Zwergisch"
+      },
+      {
+        "Sprache": "Halblingisch",
+        "Typische Voelker": "Halblinge",
+        "Schrift": "Gemeinsprache"
+      },
+      {
+        "Sprache": "Orkisch",
+        "Typische Voelker": "Orks",
+        "Schrift": "Zwergisch"
+      }
+    ]
+  },
+  {
+    "Exotische Sprachen": [
+      {
+        "Sprache": "Abyssisch",
+        "Typische Voelker": "Daemonen",
+        "Schrift": "Diabolisch"
+      },
+      {
+        "Sprache": "Celestisch",
+        "Typische Voelker": "himmlische Wesen",
+        "Schrift": "Celestisch"
+      },
+      {
+        "Sprache": "Tiefensprache",
+        "Typische Voelker": "Gedankenschinder, Betrachter",
+        "Schrift": "-"
+      },
+      {
+        "Sprache": "Drakonisch",
+        "Typische Voelker": "Drachen, Drachenbluetige",
+        "Schrift": "Drakonisch"
+      },
+      {
+        "Sprache": "Infernalisch",
+        "Typische Voelker": "Teufel",
+        "Schrift": "Infernalisch"
+      },
+      {
+        "Sprache": "Urtuemlich",
+        "Typische Voelker": "Elementare",
+        "Schrift": "Zwergisch"
+      },
+      {
+        "Sprache": "Sylvanisch",
+        "Typische Voelker": "Feenwesen",
+        "Schrift": "Elfisch"
+      },
+      {
+        "Sprache": "Gemeinsprache der Unterreiche",
+        "Typische Voelker": "Unterreich-Haendler",
+        "Schrift": "Elfisch"
+      }
+    ]
+  }
+]

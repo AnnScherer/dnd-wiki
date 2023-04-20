@@ -1,0 +1,119 @@
+[
+  {
+    "name": "gefütterte Rüstung",
+    "kategorie": "leichte Rüstung",
+    "kosten": 500,
+    "ruestungsklasse": "11 + GES-Modifikator",
+    "staerke": 0,
+    "heimlichkeit": "Nachteil",
+    "gewicht": 8
+  },
+  {
+    "name": "Lederrüstung",
+    "kategorie": "leichte Rüstung",
+    "kosten": 1000,
+    "ruestungsklasse": "11 + GES-Modifikator",
+    "staerke": 0,
+    "heimlichkeit": "-",
+    "gewicht": 10
+  },
+  {
+    "name": "beschlagene Lederrüstung",
+    "kategorie": "leichte Rüstung",
+    "kosten": 4500,
+    "ruestungsklasse": "12 + GES-Modifikator",
+    "staerke": 0,
+    "heimlichkeit": "-",
+    "gewicht": 13
+  },
+  {
+    "name": "Fellrüstung",
+    "kategorie": "mittelschwere Rüstung",
+    "kosten": 1000,
+    "ruestungsklasse": "12 + GES-Modifikator (max. +2)",
+    "staerke": 0,
+    "heimlichkeit": "-",
+    "gewicht": 12
+  },
+  {
+    "name": "Kettenhemd",
+    "kategorie": "mittelschwere Rüstung",
+    "kosten": 5000,
+    "ruestungsklasse": "13 + GES-Modifikato r (max. +2)",
+    "staerke": 0,
+    "heimlichkeit": "-",
+    "gewicht": 20
+  },
+  {
+    "name": "Schuppenpanzer",
+    "kategorie": "mittelschwere Rüstung",
+    "kosten": 5000,
+    "ruestungsklasse": "14 + GES-Modifikator (max. +2)",
+    "staerke": 0,
+    "heimlichkeit": "Nachteil",
+    "gewicht": 45
+  },
+  {
+    "name": "Brustplatte",
+    "kategorie": "mittelschwere Rüstung",
+    "kosten": 40000,
+    "ruestungsklasse": "14 + GES-Modifikator (max. +2)",
+    "staerke": 0,
+    "heimlichkeit": "-",
+    "gewicht": 20
+  },
+  {
+    "name": "Plattenpanzer",
+    "kategorie": "mittelschwere Rüstung",
+    "kosten": 75000,
+    "ruestungsklasse": "15 + GES-Modifikator (max. +2)",
+    "staerke": 0,
+    "heimlichkeit": "Nachteil",
+    "gewicht": 40
+  },
+  {
+    "name": "Ringpanzer",
+    "kategorie": "schwere Rüstung",
+    "kosten": 3000,
+    "ruestungsklasse": 14,
+    "staerke": 0,
+    "heimlichkeit": "Nachteil",
+    "gewicht": 40
+  },
+  {
+    "name": "Kettenpanzer",
+    "kategorie": "schwere Rüstung",
+    "kosten": 7500,
+    "ruestungsklasse": 16,
+    "staerke": 13,
+    "heimlichkeit": "Nachteil",
+    "gewicht": 55
+  },
+  {
+    "name": "Schienenpanzer",
+    "kategorie": "schwere Rüstung",
+    "kosten": 20000,
+    "ruestungsklasse": 17,
+    "staerke": 15,
+    "heimlichkeit": "Nachteil",
+    "gewicht": 60
+  },
+  {
+    "name": "Ritterrüstung",
+    "kategorie": "schwere Rüstung",
+    "kosten": 150000,
+    "ruestungsklasse": 18,
+    "staerke": 15,
+    "heimlichkeit": "Nachteil",
+    "gewicht": 65
+  },
+  {
+    "name": "Schild",
+    "kategorie": "Schilde",
+    "kosten": 1000,
+    "ruestungsklasse": 2,
+    "staerke": 0,
+    "heimlichkeit": "-",
+    "gewicht": 6
+  }
+]
