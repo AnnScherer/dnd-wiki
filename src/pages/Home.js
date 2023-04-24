@@ -1,6 +1,6 @@
 import { useState } from "react";
 import zauber from "../zauber.json";
-import klassenZauber from "../klassen-zauber.json";
+import klassenZauber from "../klassenzauber.json";
 
 const Home = () => {
   const [selectValue, setSelectValue] = useState({
