@@ -1,5 +1,6 @@
 import { useState } from "react";
 import zauber from "../zauber.json";
+import klassenZauber from "../klassen-zauber.json";
 
 const Home = () => {
   const [selectValue, setSelectValue] = useState({
@@ -9,6 +10,7 @@ const Home = () => {
   const [filteredSpells, setFilteredSpells] = useState([]);
   const [inhaltsverzeichnis, setInhaltsverzeichnis] = useState([]);
   const [searchSpell, setSearchSpell] = useState([]);
+  const [klasseFilter, setKlasseFilter] = useState([]);
 
   // const spellMap = spell.map((spell)=>{
   //   return <p key={spell._id}>{spell.name}</p>
@@ -17,6 +19,9 @@ const Home = () => {
   const onChangeKlasse = (event) => {
     const value = event.target.value;
     setSelectValue((selectValue) => ({ ...selectValue, klasse: value }));
+    const filterGrad = klassenZauber.filter((klasse) => klasse.name === value);
+    setKlasseFilter(filterGrad);
+    console.log(filterGrad);
   };
   const onChangeGrad = (event) => {
     const value = event.target.value;
@@ -42,9 +47,10 @@ const Home = () => {
     });
     setFilteredSpells(spellFilter);
     setInhaltsverzeichnis(spellFilter);
-    setSelectValue.klasse("")
+    setSelectValue.klasse("");
     setSelectValue.grad("");
   };
+
   const changeValue = (e) => {
     setSearchSpell(e.target.value);
   };
@@ -80,30 +86,19 @@ const Home = () => {
               <label>Klasse auswählen:</label>
               <select onChange={onChangeKlasse}>
                 <option>Klasse auswählen</option>
-                <option>Barde</option>
-                <option>Druide</option>
-                <option>Hexenmeister</option>
-                <option>Kleriker</option>
-                <option>Magier</option>
-                <option>Paladin</option>
-                <option>Waldläufer</option>
-                <option>Zauberer</option>
+                {klassenZauber.map((klasse, i) => (
+                  <option key={i}>{klasse.name}</option>
+                ))}
               </select>
             </div>
             <div className="select-grad">
               <label>Grad auswählen:</label>
               <select onChange={onChangeGrad}>
                 <option>Grad auswählen</option>
-                <option>0</option>
-                <option>1</option>
-                <option>2</option>
-                <option>3</option>
-                <option>4</option>
-                <option>5</option>
-                <option>6</option>
-                <option>7</option>
-                <option>8</option>
-                <option>9</option>
+                {klasseFilter.length > 0 &&
+                  klasseFilter[0].grade.map((number, i) => (
+                    <option key={i}>{number}</option>
+                  ))}
               </select>
             </div>
           </div>
