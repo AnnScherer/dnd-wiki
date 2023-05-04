@@ -12,10 +12,6 @@ const Home = () => {
   const [searchSpell, setSearchSpell] = useState([]);
   const [klasseFilter, setKlasseFilter] = useState([]);
 
-  // const spellMap = spell.map((spell)=>{
-  //   return <p key={spell._id}>{spell.name}</p>
-  // })
-
   const onChangeKlasse = (event) => {
     const value = event.target.value;
     setSelectValue((selectValue) => ({ ...selectValue, klasse: value }));

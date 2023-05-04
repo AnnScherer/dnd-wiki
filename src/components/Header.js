@@ -1,9 +1,12 @@
-import { useState } from "react";
+import { useContext, useState } from "react";
 import { NavLink } from "react-router-dom";
+import userContext from "../context/userContext";
+import Dice from "./Dice";
 
 const Header = () => {
   const [checkStatus, setChange] = useState(false);
   const [show, setShow] = useState(false);
+  const {showDice, setShowDice} = useContext(userContext);
 
   const handleSth = (e) => {
     setChange(!checkStatus);
@@ -12,8 +15,12 @@ const Header = () => {
     } else setShow(!show);
   };
 
+  const showPopUp = () => {
+    setShowDice(true);
+  };
+
   return (
-    <>
+    <div className="header-container">
       <nav role="navigation">
         <div id="menuToggle">
           <input checked={show} onClick={handleSth} readOnly type="checkbox" />
@@ -50,8 +57,11 @@ const Header = () => {
             </li>
           </ul>
         </div>
+        <img className="logo" onClick={showPopUp} src={require("./w20.webp")} alt="w20" />
       </nav>
-    </>
+
+      {showDice && <Dice />}
+    </div>
   );
 };
 

@@ -3,7 +3,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 50px;
+  height: 75px;
 }
 
 nav a {
@@ -311,6 +311,7 @@ p {
   justify-content: center;
   padding: 0 2rem;
   width: 100%;
+  align-items: center;
 }
 
 .völker h3 {
@@ -399,6 +400,77 @@ p span {
   display: block;
   margin-top: 2rem;
   font-size: 1.2rem;
+}
+
+.logo {
+  height: 50px;
+  padding-right: 1rem;
+  cursor: pointer;
+}
+
+.header-container {
+  position: relative;
+}
+
+.dice {
+  width: 400px;
+  height: 700px;
+  background-color: #e7e7e7;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 100px;
+  margin: auto;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  z-index: 5;
+}
+
+.closeBTN {
+  text-align: end;
+  padding: 10px 15px 0 0;
+  cursor: pointer;
+}
+
+.d {
+  height: 80px;
+  padding: 0.5rem;
+}
+
+.würfel {
+  display: flex;
+  padding: 1rem;
+  flex-direction: column;
+  align-items: center;
+  border-top: 1px solid rgb(108, 108, 108);
+  background-color: #f2f2f2;
+  border-radius: 0 0 5px 5px;
+  position: relative;
+}
+
+.würfelzahl {
+  overflow-y: scroll;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.würfelzahl p {
+  font-size: 1.5rem;
+  padding: 0.5rem 0;
+}
+
+.allDices {
+  padding: 1rem;
+  font-size: 2rem;
+}
+
+.reload {
+  position: absolute;
+  top: 15px;
+  right: 15px;
 }
 
 @media screen and (min-width: 800px) {

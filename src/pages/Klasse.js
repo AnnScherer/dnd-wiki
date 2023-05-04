@@ -11,7 +11,6 @@ export default function Klasse() {
     });
     setFilterKlasse(klasseFilter);
   };
-  console.log(klassen);
 
   return (
     <div className="container">
