@@ -100,6 +100,34 @@
     ]
   },
   {
+    "name": "HALBORKS",
+    "text": [
+      "DAS KRIEGSOBERHAUPT MHURREN ERHOB SICH VON SEINEN Schlaffellen und seiner Frau, um sich ein kurzes Kettenhemd aus schweren Stahlringen über die dicke, muskelbepackte Brust zu streifen. Für gewöhnlich stand er vor den anderen Kriegern auf, da er einen großen Anteil menschlichen Blutes in sich trug und ihm das Tageslicht weniger ausmachte als den übrigen Stammesmit-gliedern. Bei den Blutigen Schädeln wurde ein Krieger nach seiner Stärke, seiner Gewitztheit und seiner Wildheit beurteilt. Menschliche Vorfahren waren keine Schande, solange er genauso stark, ausdauernd und blutrünstig war wie seine vollblütigen Verwand-ten. Halborks, die schwächer als ihre Kameraden waren, hielten bei den Blutigen Schädeln nicht lange durch, genau wie bei jedem anderen Orkstamm. Doch oft war es so, dass ein wenig menschliches Blut gerade die richtige Mischung aus Ehrgeiz, Selbstdisziplin und Gerissenheit ergab, um es weit zu bringen - so wie Mhurren. Er war der Herr eines Stammes, der mit 2.000 Speeren und dem stärksten Anführer in Thar aufwarten konnte.",
+      "Ob unter der Führung eines mächtigen Kriegsherren vereint oder nach jahrelangen Konflikten einen Waffenstillstand aus-handelnd, bilden Orks und Menschen zuweilen Allianzen. Aus Allianzen, die durch Heirat besiegelt werden, gehen Halborks hervor. Manche von ihnen wachsen zu stolzen Anführern von Orkgemeinschaften heran. Andere wagen sich in die Welt hin-aus, um ihren Wert unter Beweis zu stellen. Viele werden zu Abenteurern, die Ruhm durch ihre mächtigen Taten erlangen.",
+      "<span>NARBENÜBERSÄT UND STARK</span>",
+      "Halborks haben sowohl orkische als auch menschliche Merkmale und ihr Aussehen ist sehr vielfältig. Gräuliche Hautfarbe und hervorstehende Zähne kommen häufig bei diesem Volk vor. Sie sind zwischen 150 cm und 210 cm groß und wiegen meist um die 180-250 Pfund. Orks sehen Narben, die sie durch Kämpfe erhalten haben, als Trophäen an und erachten Ziernarben als schön. Jedoch können andere Narben einen Ork oder Halbork auch als ehemaligen Häftlinge oder als in Ungnade gefallenen Verbannten brandmarken. Jeder Halbork, der unter Orks aufgewachsen ist oder in ihrer Nähe gelebt hat, besitzt Narben, seien es nun Zeichen von Demütigung oder des Stolzes.",
+      "<span>DAS ZEICHEN VON GRUUMSH</span>",
+      "Der einäugige Gott Gruumsh - Herr des Krieges und der Wut - erschuf die ersten Orks, und selbst diejenigen, die ihn nicht verehren, tragen seinen Segen der Stärke und Ausdauer. Das Gleiche gilt für Halborks. Zu manchen flüstert Gruumsh im Traum und bestürmt sie, die Wut zu entfesseln, die in ihnen schlummert. Andere fühlen Gruumshs Jubel, wenn sie sich auf einen Nahkampf einlassen, und erbeben mit ihm oder schaudern vor Angst und Schrecken.Nicht nur die Wut von Gruumsh, auch alle anderen Gefühle durchlebt ein Halbork sehr stark. Wut lässt nicht bloß seinen Puls in die Höhe schnellen, sie lässt seinen Körper brennen. Eine Beleidigung ätzt wie Säure und Traurigkeit reißt ihn in tiefe Schwermut. Doch kann er auch laut und herzlich lachen, und einfache Freuden wie Essen, Trinken, Ringen, Trommeln und wildes Tanzen erfüllen sein Herz mit überschwänglicher Freude. Halborks neigen dazu, ungeduldig, aufbrausend und manchmal mürrisch zu sein. Im Allgemeinen fühlen sie sich mehr zur Tat als zum Nachdenken hingezogen und ziehen das Kämpfen dem Diskutieren vor. Wenn ihre Herzen von Liebe erfüllt sind, vollbringen sie Taten voller Güte und Mitgefühl.",
+      "<span>NAMEN DER HALBORKS</span>",
+      "Halborks tragen für gewöhnlich einen Namen, der an die Kultur angepasst ist, in der sie aufwachsen. Möchte ein Halbork unter Menschen leben, könnte er seinen orkischen Namen ablegen und einen menschlichen annehmen. Manche Halborks mit menschlichem Namen tauschen diesen gegen einen kehlig klingenden orkischen Namen, da sie denken, dass dieser sie einschüchternder wirken lässt.",
+      "<b>Männliche Orknamen:</b>",
+      "Dench, Feng, Gell, Henk, Holg, Imsh, Keth, Krusk, Mhurren, Ront, Shump, Thokk",
+      "<b>Weibliche Orknamen:</b>",
+      "Baggi, Emen, Engong, Kansif, Myev, Neega, Ovak, Ownka, Shautha, Sutha, Vola, Volen, Yevelda",
+      "<span>MERKMALE DER HALBORKS</span>",
+      "Dein Halborkcharakter besitzt bestimmte Eigenschaften, die sich aus seiner orkischen Abstammung ergeben.",
+      "<b><i>Attributswerterhöhung:</i></b> Dein Stärkewert wird um 2 Punkte erhöht, dein Konstitutionswert um 1 Punkt.",
+      "<b><i>Alter:</i></b> Halborks sind etwas schneller ausgewachsen als Men-schen, sie erreichen das Erwachsenenalter mit etwa 14 Jahren. Ihre Lebenserwartung ist jedoch auch deutlich geringer, selten werden sie älter als 75 Jahre.",
+      "<b><i>Größe:</i></b> Halborks sind etwas größer und stämmiger als Menschen und reichen von 150 cm bis weit über 180 cm hinaus. Deine Größenkategorie ist mittelgroß.",
+      "<b><i>Bewegungsrate:</i></b> Deine Grundbewegungsrate beträgt 9 m.",
+      "<b><i>Dunkelsicht:</i></b> Dank deines orkischen Blutes kannst du hervorragend in der Dunkelheit und in dämmrigem Licht sehen. Behandle im Umkreis von 18 m dämmriges Licht wie helles Licht und Dunkelheit wie dämmriges Licht. Allerdings kannst du im Dunkeln keine Farben erkennen, nur Graustufen.",
+      "<b><i>Bedrohlich:</i></b> Du bist geübt in der Fertigkeit Einschüchtern.",
+      "<b><i>Durchhaltevermögen:</i></b> Wenn deine Trefferpunkte auf 0 fallen und du nicht stirbst, darfst du sie auf 1 setzen. Diese Fähigkeit kannst du erst nach einer langen Rast erneut verwenden.",
+      "<b><i>Wilde Angriffe:</i></b> Erzielst du einen kritischen Treffer mit einer Nahkampfwaffe, kannst du einen der Schadenswürfel der Waffe erneut würfeln und das Ergebnis zum Zusatzschaden des kritischen Treffers addieren.",
+      "<b><i>Sprachen:</i></b> Du kannst sowohl Orkisch als auch die Gemeinsprache lesen, schreiben und sprechen. Orkisch ist eine raue, kratzig klingende Sprache mit harten Konsonanten. Sie besitzt keine eigenen Schriftzeichen und wird daher in zwergischen Zeichen geschrieben."
+    ]
+  },
+  {
     "name": "HALBLINGE",
     "text": [
       "DER HALBLING REGIS, IM UMKREIS VON HUNDERTEN MEILEN der einzige seiner Art, verschränkte die Hände hinter dem Kopf und lehnte sich gegen die moosbewachsene Rinde des Baumstumpfs. Regis war klein, selbst für die Maßstäbe seines Volkes, da er mit seinem Schopf aus lockigem braunem Haar kaum an die 90 cm heranreichte. Sein Bauch hingegen war ziemlich dick von seiner Liebe für ein gutes Mahl oder mehreren, wenn sich die Gelegenheit ergab. Der knorrige Ast, der ihm als Angelrute diente, ragte über ihm auf und war zwischen zwei seiner Zehen eingeklemmt, über dem ruhigen See hängend und sich perfekt in der glasigen Oberfläche des Maer Dualdon widerspiegelnd.",
