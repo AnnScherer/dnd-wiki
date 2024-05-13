@@ -26,6 +26,7 @@ export default function Volk() {
               <option>GNOME</option>
               <option>HALBELFEN</option>
               <option>HALBLINGE</option>
+              <option>HALBORKS</option>
               <option>MENSCHEN</option>
               <option>TIEFLINGE</option>
               <option>ZWERGE</option>
