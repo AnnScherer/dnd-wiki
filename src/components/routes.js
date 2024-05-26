@@ -7,6 +7,7 @@ import Rüstung from "../pages/Rüstung";
 import Volk from "../pages/Volk";
 import Waffen from "../pages/Waffen";
 import Werkzeuge from "../pages/Werkzeuge";
+import Talent from "../pages/Talent";
 
 const routes = [
   { path: "/", element: <Home />, id: 1 },
@@ -18,6 +19,7 @@ const routes = [
   { path: "/rüstung", element: <Rüstung />, id: 7 },
   { path: "/ausrüstung", element: <Ausrüstung />, id: 8 },
   { path: "/werkzeuge", element: <Werkzeuge />, id: 9 },
+  { path: "/talente", element: <Talent />, id: 10 },
 ];
 
 export default routes;

@@ -123,7 +123,8 @@ const Home = () => {
                 <h3>{spell.name}</h3>
                 {spell.grad > 0 ? (
                   <p>
-                    {spell.schule} des {spell.grad}. grades
+                    {spell.schule} des {spell.grad}. Grades
+                    {spell.hasOwnProperty("ritual") && <>{spell.ritual}</>}
                   </p>
                 ) : (
                   <p>Zaubertrick der {spell.schule}</p>

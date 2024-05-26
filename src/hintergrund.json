@@ -1,22 +1,5 @@
 [
   {
-    "name": "Hintergrund",
-    "text": [
-      "Jede Geschichte hat einen Anfang. Der Hintergrund deines Charakters verrät, wo er herkommt, wie er ein Abenteurer wurde und wo sein Platz in der Welt ist. Dein Kämpfer könnte ein tapferer Ritter gewesen sein der ein verbitterter Soldat, dein Magier ein Weiser oder ein Künstler. Dein Schurke hätte sich bei einer Gilde verdingen oder als Narr das Publikum begeistern können.",
-      "Einen Hintergrund auszusuchen, gibt dir wichtige Anhaltspunkte zur Geschichte deines Charakters und sagt viel über dessen Identität aus. Die wichtigste Frage, die du dir zum Hintergrund stellen solltest ist: Was hat sich verändert? Warum hat dein Charakter mit seinem vorherigen Leben abgeschlossen, alles aufgeben und ist auf Abenteuer ausgezogen? Woher hat er das Geld für seine Anfangsausrüstung oder falls du einen wohlhabenden Hintergrund wählst wieso verfügt er nicht über noch mehr Geld? Wie hat er die Fähigkeiten seiner Klasse erlernt? Was unterscheidet ihn sonst noch von anderen, die den gleichen Hintergrund haben? Die Hintergrundbeispiele in diesem Kapitel enthalten sowohl konkrete Vorzüge(Merkmale, Übung und Sprachen) als auch Anhaltspunkte",
-      "<b>ÜBUNG</b>",
-      "Jeder Hintergrund verleiht deinem Charakter Übung in zwei Fertigkeiten. Zusätzlich bist du durch die meisten Hintergründe geübt im Umgang mit einem oder mehreren Werkzeugen. Sollte dein Charakter dieselbe Übung aus zwei Quellen erlangen, kann er als Ausgleich eine andere Übung der gleichen Art wählen (Fertigkeit oder Werkzeug).",
-      "<b>SPRACHEN</b>",
-      "Manche Hintergründe gestatten es deinem Charakter, weitere Sprachen zu lernen, die über jene hinausgehen, die er durch seine Volkszugehörigkeit beherrscht.",
-      "<b>AUSRÜSTUNG</b>",
-      "Jeder Hintergrund stellt deinem Charakter eine Anfangsausrüstung zur Verfügung. Wenn du die optionale Regel aus Ausrüstung verwendest, um dir deine Anfangsausrüstung mit Geld selbst zusammenzustellen, erhältst du die Anfangsausrüstung deines Hintergrunds nicht.",
-      "<b>EMPFOHLENE CHARAKTERISTIKA</b>",
-      "Jeder Hintergrund enthält auf ihm basierende persönliche Charakteristika. Du kannst dir diese frei aussuchen, sie zufällig mit einem Würfel bestimmen oder die Vorschläge als Inspiration für selbst ausgedachte Charakteristika nutzen.",
-      "<b>EINEN HINTERGRUND ANPASSEN",
-      "Du möchtest vielleicht einige Eigenschaften deines Hintergrunds verändern, damit er besser zum Konzept deines Charakters oder der Kampagne passt, die ihr spielt. Um einen Hintergrund anzupassen, kannst du ein Merkmal mit einem beliebigen anderen ersetzen, dir zwei Fertigkeiten aussuchen, in denen du geübt bist, und insgesamt zwei Werkzeuge und/oder Sprachen wählen, mit denen du umgehen kannst oder die du beherrscht. Nutze die Anfangsausrüstung deines Hintergrunds oder erwirb diese mit Geld, wie es in Ausrüstung beschrieben ist. (In diesem Fall erhältst du nicht noch zusätzlich die Ausrüstung, die in deiner Klassenbeschreibung angegeben ist) Zum Schluss wählst du noch zwei Persönlichkeitsmerkmale, ein Ideal, eine Bindung und einen Makel. Wenn du kein Merkmal finden kannst, das zu deinem gewünschten Hintergrund passt, setze dich mit deinem SL zusammen und erschafft gemeinsam eines."
-    ]
-  },
-  {
     "name": "Adliger",
     "text": [
       "Du bist gewöhnt an Reichtum, Macht und Privilegien. Du trägst einen Adelstitel, und deine Familie besitzt Ländereien, erhebt Steuern und verfügt über bedeutenden politischen Einfluss. Vielleicht bist du ein verwöhnter Aristokrat, der mit Arbeit und Unannehmlichkeiten nicht vertraut ist. Du könntest aber auch ein ehemaliger Kaufmann sein, der erst zum Edelmann wurde, oder  ein enterbter Abkömmling, der unverhältnismäßige Ansprüche geltend macht. Oder du bist ein ehrlicher, hart arbeitender Landbesitzer, der sich gut um die Leute kümmert, die auf seinem Land leben und arbeiten, und der sich seiner Verantwortung ihnen gegenüber bewusst ist.",
@@ -181,9 +164,9 @@
       "<b>Geübt in folgenden Fertigkeiten:</b> Athletik, Überlebenskunst",
       "<b>Geübt im Umgang mit folgenden Werkzeugen:</b> eine Art von Musikintrument",
       "<b>Sprachen:</b> eine deiner Wahl",
-      "<b>Ausrüstung:</b> ein Stab, eine Jagdfalle, die Trophae eines getöteten Tieres, ein Satz Reisekleidung, ein Beutel mit 1O GM",
+      "<b>Ausrüstung:</b> ein Stab, eine Jagdfalle, die Trophae eines getöteten Tieres, ein Satz Reisekleidung, ein Beutel mit 10 GM",
       "<b>BISHERIGES LEBEN </b>",
-      "Du warst schon an seltsamen Orten und hast Dinge gesehen, die sich andere nicht einmal vorstellen können. Würfle mit einem WlO oder wähle aus der folgenden Tabelle um zu bestimmen. auf welche Art du deine Zeit in der Wildnis und auf Reisen verbracht hast.",
+      "Du warst schon an seltsamen Orten und hast Dinge gesehen, die sich andere nicht einmal vorstellen können. Würfle mit einem W10 oder wähle aus der folgenden Tabelle um zu bestimmen auf welche Art du deine Zeit in der Wildnis und auf Reisen verbracht hast.",
       "<table><tr><th>W10</th><th>Bisheriges Leben</th></tr><tr><td>1</td><td>Förster</td></tr><tr><td>2</td><td>Fallensteller</td></tr><tr><td>3</td><td>Siedler</td></tr><tr><td>4</td><td>Führer</td></tr><tr><td>5</td><td>Exilant oder Aussteiger</td></tr><tr><td>6</td><td>Kopfgeldjäger</td></tr><tr><td>7</td><td>Pilger</td></tr><tr><td>8</td><td>Stammesnomade</td></tr><tr><td>9</td><td>Jäger und Sammler</td></tr><tr><td>10</td><td>Stammesplünderer</td></tr></table>",
       "<b>MERKMAL: WANDERER</b>",
       "Du verfügst über eine hervorragende Erinnerungsgabe in Bezug auf Karten und Geografie und kannst dir immer anhand auffälliger Geländemerkmale die Beschaffenheit und Lage eines Gebietes oder einer Siedlung merken. Zusätzlich bist du in der Lage täglich für dich selbst und bis zu fünf Begleiter ausreichend frisches Wasser und Nahrung zu beschaffen, solange dir das Land entsprechende Möglichkeiten dazu bietet (es etwa Beeren, Kleinwild und Ähnliches gibt).",

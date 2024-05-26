@@ -16,6 +16,7 @@
   },
   {
     "name": "Alarm",
+    "ritual": " (Ritual)",
     "grad": 1,
     "schule": "Bannmagie",
     "zeitaufwand": "1 Minute",
@@ -252,6 +253,7 @@
   },
   {
     "name": "Auf Wasser gehen",
+    "ritual": " (Ritual)",
     "grad": 3,
     "schule": "Verwandlungsmagie",
     "zeitaufwand": "1 Aktion",
@@ -733,6 +735,7 @@
   },
   {
     "name": "Drawmijs sofortige Herbeizauberung",
+    "ritual": " (Ritual)",
     "grad": 6,
     "schule": "Beschwörung",
     "zeitaufwand": "1 Minute",
@@ -878,6 +881,7 @@
   },
   {
     "name": "Einswerden mit der Natur",
+    "ritual": " (Ritual)",
     "grad": 5,
     "schule": "Erkenntnismagie",
     "zeitaufwand": "1 Minute",
@@ -1630,6 +1634,7 @@
   },
   {
     "name": "Geisterross",
+    "ritual": " (Ritual)",
     "grad": 3,
     "schule": "Illusionsmagie",
     "zeitaufwand": "1 Minute",
@@ -1679,6 +1684,7 @@
   {
     "name": "Gift und Krankheit entdecken",
     "grad": 1,
+    "ritual": " (Ritual)",
     "schule": "Erkenntnismagie",
     "zeitaufwand": "1 Aktion",
     "reichweite": "Selbst",
@@ -1880,6 +1886,7 @@
   },
   {
     "name": "Heiliges Gespräch",
+    "ritual": " (Ritual)",
     "grad": 5,
     "schule": "Erkenntnismagie",
     "zeitaufwand": "1 Minute",
@@ -2066,6 +2073,7 @@
   },
   {
     "name": "Identifizieren",
+    "ritual": " (Ritual)",
     "grad": 1,
     "schule": "Erkenntnismagie",
     "zeitaufwand": "1 Minute",
@@ -2081,6 +2089,7 @@
   {
     "name": "Illusionsschrift",
     "grad": 1,
+    "ritual": " (Ritual)",
     "schule": "Illusionsmagie",
     "zeitaufwand": "1 Minute",
     "reichweite": "Berührung",
@@ -2226,6 +2235,7 @@
   },
   {
     "name": "Kontakt zu anderen Ebenen",
+    "ritual": " (Ritual)",
     "grad": 5,
     "schule": "Erkenntnismagie",
     "zeitaufwand": "1 Minute",
@@ -2420,6 +2430,7 @@
   },
   {
     "name": "Leomunds winzige Hütte",
+    "ritual": " (Ritual)",
     "grad": 3,
     "schule": "Hervorrufung",
     "zeitaufwand": "1 Minute",
@@ -2513,6 +2524,7 @@
   },
   {
     "name": "Magie entdecken",
+    "ritual": " (Ritual)",
     "grad": 1,
     "schule": "Erkenntnismagie",
     "zeitaufwand": "1 Aktion",
@@ -2563,6 +2575,7 @@
   },
   {
     "name": "Magischer Mund",
+    "ritual": " (Ritual)",
     "grad": 2,
     "schule": "Illusionsmagie",
     "zeitaufwand": "1 Minute",
@@ -2744,6 +2757,7 @@
   {
     "name": "Mit Stein verschmelzen",
     "grad": 3,
+    "ritual": " (Ritual)",
     "schule": "Verwandlungsmagie",
     "zeitaufwand": "1 Aktion",
     "reichweite": "Berührung",
@@ -2757,6 +2771,7 @@
   },
   {
     "name": "Mit Tieren sprechen",
+    "ritual": " (Ritual)",
     "grad": 1,
     "schule": "Erkenntnismagie",
     "zeitaufwand": "1 Aktion",
@@ -2912,6 +2927,7 @@
   },
   {
     "name": "Nahrung und Wasser reinigen",
+    "ritual": " (Ritual)",
     "grad": 1,
     "schule": "Verwandlungsmagie",
     "zeitaufwand": "1 Aktion",
@@ -3144,6 +3160,7 @@
   },
   {
     "name": "Rarys telepathisches Band",
+    "ritual": " (Ritual)",
     "grad": 5,
     "schule": "Erkenntnismagie",
     "zeitaufwand": "1 Aktion",
@@ -3316,6 +3333,7 @@
   },
   {
     "name": "Sanfte Ruhe",
+    "ritual": " (Ritual)",
     "grad": 2,
     "schule": "Nekromantie",
     "zeitaufwand": "1 Aktion",
@@ -3587,6 +3605,7 @@
   },
   {
     "name": "Sprachen verstehen",
+    "ritual": " (Ritual)",
     "grad": 1,
     "schule": "Erkenntnismagie",
     "zeitaufwand": "1 Aktion",
@@ -3686,6 +3705,7 @@
   },
   {
     "name": "Stille",
+    "ritual": " (Ritual)",
     "grad": 2,
     "schule": "Illusionsmagie",
     "zeitaufwand": "1 Aktion",
@@ -3886,6 +3906,7 @@
   },
   {
     "name": "Tensers schwebende Scheibe",
+    "ritual": " (Ritual)",
     "grad": 1,
     "schule": "Beschwörung",
     "zeitaufwand": "1 Aktion",
@@ -3936,6 +3957,7 @@
   },
   {
     "name": "Tier oder Pflanze aufspüren",
+    "ritual": " (Ritual)",
     "grad": 2,
     "schule": "Erkenntnismagie",
     "zeitaufwand": "1 Aktion",
@@ -3949,6 +3971,7 @@
   },
   {
     "name": "Tierbote",
+    "ritual": " (Ritual)",
     "grad": 2,
     "schule": "Verzauberung",
     "zeitaufwand": "1 Aktion",
@@ -4015,6 +4038,7 @@
   {
     "name": "Tiersinn",
     "grad": 2,
+    "ritual": " (Ritual)",
     "schule": "Erkenntnismagie",
     "zeitaufwand": "1 Aktion",
     "reichweite": "Berührung",
@@ -4135,6 +4159,7 @@
   },
   {
     "name": "Totstellen",
+    "ritual": " (Ritual)",
     "grad": 3,
     "schule": "Nekromantie",
     "zeitaufwand": "1 Aktion",
@@ -4222,6 +4247,7 @@
   },
   {
     "name": "Unsichtbarer Diener",
+    "ritual": " (Ritual)",
     "grad": 1,
     "schule": "Beschwörung",
     "zeitaufwand": "1 Aktion",
@@ -4471,6 +4497,7 @@
   },
   {
     "name": "Vertrauten finden",
+    "ritual": " (Ritual)",
     "grad": 1,
     "schule": "Beschwörung",
     "zeitaufwand": "1 Stunde",
@@ -4558,6 +4585,7 @@
   },
   {
     "name": "Vorahnung",
+    "ritual": " (Ritual)",
     "grad": 2,
     "schule": "Erkenntnismagie",
     "zeitaufwand": "1 Minute",
@@ -4716,6 +4744,7 @@
   },
   {
     "name": "Wasser Atmen",
+    "ritual": " (Ritual)",
     "grad": 3,
     "schule": "Verwandlungsmagie",
     "zeitaufwand": "1 Aktion",
@@ -4803,6 +4832,7 @@
   },
   {
     "name": "Weissagung",
+    "ritual": " (Ritual)",
     "grad": 4,
     "schule": "Erkenntnismagie",
     "zeitaufwand": "1 Aktion",
@@ -4973,7 +5003,7 @@
     ]
   },
   {
-    "name": "Wunden heilem",
+    "name": "Wunden heilen",
     "grad": 1,
     "schule": "Hervorrufung",
     "zeitaufwand": "1 Aktion",
@@ -5130,6 +5160,7 @@
   },
   {
     "name": "Zutritt verwehren",
+    "ritual": " (Ritual)",
     "grad": 6,
     "schule": "Bannmagie",
     "zeitaufwand": "10 Minuten",

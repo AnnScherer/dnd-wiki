@@ -1,0 +1,490 @@
+[
+  {
+    "name": "Armburstexperte",
+    "text": [
+      "Dank deines ausgiebigen Trainings mit der Armbrust erhältst du folgende Vorzüge:",
+      "Du ignorierst die Eigenschaft Laden bei Armbrüsten, mit denen du geübt bist.",
+      "Du bist nicht im Nachteil bei Fernkampfangriffen, die du innerhalb von 1,50 m zu einer feindlichen Kreatur ausführst.",
+      "Wenn du deine Angriffsaktion für einen Angriff mit einer einhändigen Waffe nutzt, kannst du deine Bonusaktion aufwenden, um mit einer Handarmbrust anzugreifen, die du hältst."
+    ]
+  },
+  {
+    "name": "Athlet",
+    "text": [
+      "Du hast dich ausgiebigem körperlichen Training unterworfen und erhältst die folgenden Vorzüge:",
+      "Erhöhe deine Stärke oder Geschicklichkeit um 1 Punkt, bis zu einem maximalen Attributswert von 20.",
+      "Wenn du den Zustand liegend hast, kostet dich das Aufstehen nur 1,50 m deiner Bewegungsrate.",
+      "Klettern kostet dich keine zusätzliche Bewegungsrate.",
+      "Du kannst aus dem Lauf weit- und hochspringen, nachdem du 1,50 m zurückgelegt hast, anstatt den üblichen 3 m."
+    ]
+  },
+  {
+    "name": "Aufmerksam",
+    "text": [
+      "Da dir Einzelheiten in deiner Umgebung schnell auffallen, erhältst du die folgenden Vorzüge:",
+      "Erhöhe deine Intelligenz oder Weisheit um 1 Punkt, bis zu einem maximalen Attributswert von 20.",
+      "Du bist in der Lage, von den Lippen zu lesen. Wenn du den Mund einer Kreatur sehen kannst, während diese in einer Sprache spricht, die du verstehst, kannst du abschätzen, was sie sagt.",
+      "Du besitzt einen +5 Bonus auf deinen passiven Weisheits-(Wahrnehmung) und passiven Intelligenzwert (Nachforschungen)."
+    ]
+  },
+  {
+    "name": "Begabt",
+    "text": [
+      "Du bist in einer beliebigen Kombination aus drei Fertigkeiten und/oder Werkzeugen deiner Wahl geübt."
+    ]
+  },
+  {
+    "name": "Belastbar",
+    "text": [
+      "Suche dir ein Attribut aus. Du erhältst die folgenden Vorzüge:",
+      "Der gewählte Attributswert steigt um 1 Punkt, bis auf ein Maximum von 20 Punkten.",
+      "Du erhältst Übung in Rettungswürfen mit dem gewählten Attribut."
+    ]
+  },
+  {
+    "name": "Berittener Kampf",
+    "text": [
+      "Du bist ein gefährlicher Gegner, wenn du beritten bist. Solange du im Sattel sitzt und nicht kampfunfähig bist, erhältst du die folgenden Vorzüge:",
+      "Du bist bei jedem Nahkampfangriffswurf gegen unberittene Kreaturen im Vorteil, wenn sie kleiner sind als dein Reittier.",
+      "Du kannst Angriffe, die auf dein Reittier zielen, auf dich umleiten.",
+      "Wenn dein Reittier von Effekten betroffen wird, die ihm einen Geschicklichkeitsrettungswurf erlauben, um nur den halben Schaden zu erleiden, nimmt es bei einem Erfolg keinen Schaden und nur den halben bei einem Misserfolg."
+    ]
+  },
+  {
+    "name": "Defensiver Duellant",
+    "voraussetzung": "Geschicklichkeit 13 oder höher",
+    "text": [
+      "Du hast deine Fähigkeiten perfektioniert, bestimmte Waffen zur Verteidigung einzusetzen. Wenn du eine Waffe mit der Eigenschaft Finesse führst, im Umgang mit dieser geübt bist und eine andere Kreatur dich mit einem Nahkampfangriff attackiert, kannst du deine Reaktion verwenden, um für diesen Angriff deinen Übungsbonus auf deine Rüstungsklasse zu addieren."
+    ]
+  },
+  {
+    "name": "Eingeweihter der Magie",
+    "text": [
+      "Wähle eine Klasse: Barde, Druide, Kleriker, Magier, Hexenmeister oder Zauberer, Du lernst aus der Spruchliste der entsprechenden Klasse zwei beliebige Zaubertricks sowie einen Zauber des 1. Grades deiner Wahl. Mit diesem Talent darfst du den Zauber einmal auf dem niedrigsten Grad wirken. Du musst eine lange Rast beenden, bevor du den Zauber erneut auf diese Weise einsetzen kannst. Das Attribut zum Zauberwirken hängt von der gewählten Klasse ab: Charisma für Barde, Hexenmeister und Zauberer, Weisheit für Druide und Kleriker sowie Intelligenz für Magier."
+    ]
+  },
+  {
+    "name": "Elementarer Adept",
+    "voraussetzung": "Fähigkeit, mindestens einen Zauber zu wirken",
+    "text": [
+      "Wähle eine der folgenden Schadensarten: Feuer, Kälte, Blitz, Säure oder Schall. Deine Zauber ignorieren Resistenzen der gewählten Schadensart. Zusätzlich darfst du bei Zaubern, welche die entsprechende Schadensart verursachen, jede gewürfelte 1 beim Schadenswurf wie eine 2 behandeln. Du kannst dieses Talent mehrfach auswählen, musst jedoch jedes Mal eine andere Schadensart nehmen."
+    ]
+  },
+  {
+    "name": "Gewölbe Forscher",
+    "text": [
+      "Du bist versiert im Aufspüren von versteckten Fallen und Geheimtüren, die man in vielen Gewölben findet, und genießt folgende Vorzüge:",
+      "Du bist im Vorteil, wenn du Rettungswürfe ablegst, um Fallen auszuweichen oder ihren Effekten zu widerstehen.",
+      "Du bist im Vorteil bei Würfen auf Weisheit (Wahrnehmung) und Intelligenz (Nachforschungen), um Geheimtüren zu finden beziehungsweise wahrzunehmen.",
+      "Du besitzt eine Resistenz gegen Schaden, der von Fallen verursacht wird.",
+      "Wenn du dich mit Reisetempo fortbewegst, leidest du nicht unter dem -5 Abzug auf deinen passiven Weisheitswert (Wahrnehmung)."
+    ]
+  },
+  {
+    "name": "Glückspilz",
+    "text": [
+      "Du hast ausgesprochenes Glück, und das immer im richtigen Moment. Mit diesem Talent verfügst du über drei Glückspunkte, Immer wenn du einen Angriffs, Attributs- oder Rettungswurf ablegst, kannst du einen Glückspunkt verbrauchen, um einen zusätzlichen W20 zu würfeln. Suche dir aus, welches Ergebnis der beiden W20 für den Angriffs, Attributs- oder Rettungswurf verwendet werden soll. Du kannst dich entscheiden, den Glückspunkt erst zu verwenden, nachdem du gewürfelt hast, musst es jedoch, bevor die Auswirkungen des Wurfs in Kraft treten.",
+      "Außerdem kannst du einen deiner Glückspunkte aufwenden, wenn ein Angriffswurf gegen dich ausgeführt wird. Würfe mit einem W20 und suche dir aus, ob dein Würfelergebnis oder das des Angreifers für den Angriffswurf verwendet werden soll. Wenn mehr als eine Kreatur Glückspunkte verwenden, um einen Wurf zu beeinflussen, heben sich diese gegenseitig auf. Es wird also mit überhaupt keinem zusätzlichen Würfel gewürfelt. Alle verbrauchten Glückspunkte stehen dir nach Beenden einer langen Rast wieder zur Verfügung."
+    ]
+  },
+  {
+    "name": "Heiler",
+    "text": [
+      "Du bist ein fähiger Mediziner, was dir erlaubt, Wunden rasch zu behandeln und deine Verbündeten schnell wieder kampfbereit zu machen. Du erhältst folgende Vorzüge:",
+      "Wenn du eine Heilerausrüstung einsetzt, um eine sterbende Kreatur zu stabilisieren, erhält sie zusätzlich 1 Trefferpunkt zurück.",
+      "Als Aktion kannst du eine Anwendung der Heilerausrüstung aufbrauchen, um eine Kreatur zu behandeln und bei ihr 1W6 + 4 Trefferpunkte wiederherzustellen + so viele Trefferpunkte, wie es ihrer maximalen Anzahl an Trefferwürfeln entspricht. Die Kreatur kann erst erneut mit diesem Talent geheilt werden, nachdem sie eine kurze oder lange Rast beendet hat."
+    ]
+  },
+  {
+    "name": "Inspirierender Anführer",
+    "voraussetzung": "Charisma 13 oder höher",
+    "text": [
+      "Verbringst du 10 Minuten damit, deine Kameraden zu inspirieren, kannst du ihre Entschlossenheit zu kämpfen stärken. Wähle bis zu sechs verbündete Kreaturen (du darfst auch dich selbst bestimmen), die sich innerhalb von 9 m befinden, dich hören oder sehen können und dich verstehen. Jede dieser Kreaturen erhält temporäre Trefferpunkte in Höhe deiner Stufe + deines Charismamodifikators. Eine Kreatur kann durch dieses Talent erst wieder temporäre Trefferpunkte erhalten, wenn sie eine kurze oder lange Rast beendet hat."
+    ]
+  },
+  {
+    "name": "Kampferprobter Zauberwirker",
+    "voraussetzung": "Fähigkeit, mindestens einen Zauber zu wirken",
+    "text": [
+      "Du hast trainiert, Zauber mitten im Kampf zu wirken, wodurch du Techniken erlernt hast, die dir folgende Vorzüge gewähren:",
+      "Du bist bei Konstitutionsrettungswürfen im Vorteil, um beim Erleiden von Schaden nicht die Konzentration auf einen Zauber zu verlieren.",
+      "Du kannst die Gestenkomponenten von Zaubern auch dann ausführen, wenn du eine Waffe oder einen Schild in einer oder beiden Händen hältst.",
+      "Provoziert die Bewegung einer feindlichen Kreatur einen Gelegenheitsangriff von dir; kannst du als Reaktion einen Zauber auf die Kreatur wirken, anstatt einen Angriff auszuführen. Der Spruch muss einen Zeitaufwand von einer Aktion haben und darf nur diese Kreatur als Ziel haben."
+    ]
+  },
+  {
+    "name": "Kneipenschläger",
+    "text": [
+      "Du bist on Raufereien gewöhnt und fähig, mit allem zu kämpfen, was dir gerade in die Finger kommt. Du erhältst folgende Vorzüge:",
+      "Erhöhe deine Stärke oder Konstitution um 1 Punkt, bis zu einem maximalen Attributswert von 20.",
+      "Du bist geübt im Umgang mit improvisierten Wallen.",
+      "Deine waffenlosen Schlinge verursachen 1W4 Schaden.",
+      "Wenn du eine Kreatur in deinem Zug mit einer improvisieren Waffe oder einem waffenlosen Schlag triffst, kannst in deine Bonusaktion für den Versuch verwenden, mit dem Ziel zu ringen."
+    ]
+  },
+  {
+    "name": "Leichtfüßig",
+    "text": [
+      "Du bist außergewöhnlich schnell und agil, was dir die folgenden Vorzüge verleiht:",
+      "Deine Bewegungerate erhöht sich um 3 m.",
+      "Wenn du die Rennenaktion nutzt, kostet dich schwieriges Gelände in dieser Runde keine zusätzliche Bewegungsrate.",
+      "Führst du einen Nahkampfangriff gegen eine Kreatur aus, provozierst du für den Rest des Zuges von dieser keinen Gelegenheitsangriff, ob du triffst oder nicht."
+    ]
+  },
+  {
+    "name": "Leicht gerüstet",
+    "text": [
+      "Du hast trainiert, in leichten Rüstungen zu kämpfen, und erhältst die folgenden Vorzüge:",
+      "Erhöhe deine Stärke oder Geschicklichkeit um 1 Punkt, bis zu einem maximalen Attributswert von 20.",
+      "Du bist geübt im Umgang mit leichten Rüstungen."
+    ]
+  },
+  {
+    "name": "Linguist",
+    "text": [
+      "Du hast Sprachen und Geheimschriften studiert, wodurch du diese Vorzüge erhältst:",
+      "Erhöhe deine Intelligenz um 1 Punkt, bis zu einem maximalen Attributswert von 20.",
+      "Du erlernst drei Sprachen deiner Wahl.",
+      "Du bist in der Lage, Geheimschriften zu entwerfen. Andere können deine Geheimschriften nicht entziffern, bis du es ihnen beigebracht hast, sie einen Intelligenzwurf bestehen (der SG entspricht deinem Intelligenzwert + deinem Übungsbonus) oder sie Magie anwenden, um die Schrift zu entschlüsseln."
+    ]
+  },
+  {
+    "name": "Magietöter",
+    "text": [
+      "Du hast Techniken erlernt, die im Nahkampf gegen Zauberwirker hilfreich sind, und arhältst dadurch folgende Vorzüge:",
+      "Wenn eine Kreatur innerhalb von 1,50 m einen Zauber wirkt, kannst du deine Reaktion nutzen, um einen Nahkampf Waffenangriff gegen diese Kreatur auszuführen.",
+      "Kreaturen, die sich auf Zauber konzentrieren, sind beim Rettungswurf zum Aufrechterhalten der Konzentration im Nachteil, wenn du ihnen Schaden zufügst.",
+      "Du bist im Vorteil bei Rettung würfen gegen Zaubersprüche, die von Kreaturen innerhalb von 1,50 m gewirkt werden."
+    ]
+  },
+  {
+    "name": "Meister der Kampfkunst",
+    "text": [
+      "Du hast ein intensives Kampftraining absolviert, das dir erlaubt, spezielle Kampfmanover auszuführen. Du erhälst die folgenden Vorzüge:",
+      "Du lernst zwei Manöver deiner Wahl, die dem Kampfmeister Archetypen der Kämpferklasse zur Verfügung stehen. Wenn das Kampfmanover, das du anwendest, vom Ziel einen Rettungswurf verlangt, um Effekten des Manövers zu widerstehen, ist der SG des Rettungswurfs gleich & + deinem Übungsbonus + deinem Stärke-oder Geschicklichkeitsmodifikator (deine Wahl).",
+      "Du erhältst einen Überlegenheitswürfel, der ein W6 ist. Besitzt du bereits Überlegenheitswürfel, wird der W6 diesen hinzugefügt). Dieser Würfel wird verwendet, um deine Manöver zu verstärken und gilt nach der Anwendung als verbraucht. Alle verbrauchten Überlegenheitswürfel stehen dir nach Beenden einer kurzen oder langen Rast wieder zur Verfügung."
+    ]
+  },
+  {
+    "name": "Meister der mittelschweren Rüstung",
+    "voraussetzung": "geübt im Umgang mit mittelschweren Rüstungen",
+    "text": [
+      "Du hast den Kampf in mittelschweren Rüstungen gemeistert und erhältst die folgenden Vorzüge:",
+      "Du bist durch das Tragen von mittelschweren Rüstungen bei Würfen auf Geschicklichkeit (Heimlichkeit) nicht im Nachteil.",
+      "Wenn du eine mittelschwere Rüstung trägst und eine Geschicklichkeit von 16 oder höher besitzt, darfst du 3 Punkte anstatt 2 auf deine Rüstungsklasse addieren."
+    ]
+  },
+  {
+    "name": "Meister der schweren Rüstung",
+    "voraussetzung": "geübt im Umgang mit schweren Rüstungen",
+    "text": [
+      "Du hast den Kampf in schweren Rüstungen gemeistert und erhältst die folgenden Vorzüge:",
+      "Erhöhe deine Stärke um 1 Punkt, bis zu einem maximalen Attributswert von 20.",
+      "Solange du schwere Rüstungen trägst, wird der Hieb-, Stich- oder Wuchtschaden nicht-magischer Waffen um 3 Punkte reduziert."
+    ]
+  },
+  {
+    "name": "Meisterschaft schwerer Waffen",
+    "text": [
+      "Du hast gelernt, das Gewicht von Waffen zu deinem Vorteil zu nutzen, wodurch die Wucht deiner Hiebe verstärkt wird. Du erhältst die folgenden Vorzüge:",
+      "Wenn du in deinem Zug einen kritischen Treffer mit einer Nahkampfwaffe erzielst oder eine Kreatur mit einer Nahkampfwaffe auf 0 Trefferpunkte reduzierst, kannst du deine Bonusaktion aufwenden, um einen weiteren Nahkampfangriff durchzuführen.",
+      "Bevor du einen Nahkampfangriff mit einer schweren Waffe ausführst, in deren Umgang du geübt bist, kannst du dich dazu entscheiden, einen Malus von -5 auf den Angriffswurf hinzunehmen, um den verursachten Schaden bei einem Treffer um 10 zu erhöhen."
+    ]
+  },
+  {
+    "name": "Mittelschwer gerüstet",
+    "voraussetzung": "geübt im Umgang mit leichten Rüstungen",
+    "text": [
+      "Du hast trainiert, in mittelschweren Rüstungen und mit Schilden zu kämpfen, und erhältst die folgenden Vorzüge:",
+      "Erhöhe deine Stärke oder Geschicklichkeit um 1 Punkt, bis zu einem maximalen Attributswert von 20.",
+      "Du bist im Umgang mit mittelschweren Rüstungen und Schilden geübt."
+    ]
+  },
+  {
+    "name": "Ringer",
+    "voraussetzung": "Stärke 13 oder höher",
+    "text": [
+      "Du hast dir beigebracht, dich im Ringkampf durchzusetzen, wodurch du die folgenden Vorzüge erhältst:",
+      "Du bist bei Angriffswürfen gegen Kreaturen im Vorteil, die du gepackt hast.",
+      "Du kannst deine Aktion dazu verwenden, eine Kreatur, die du gepackt hast, festzusetzen. Lege dazu einen zweiten Ringkampfwurf ab. Wenn dieser erfolgreich ist, erhaltet ihr beide den Zustand festgesetzt, bis der Zustand gepackt endet."
+    ]
+  },
+  {
+    "name": "Ritualwirker",
+    "voraussetzung": "Intelligenz oder Weisheit 13 oder höher",
+    "text": [
+      "Du hast dir eine Reihe von Zaubern angeeignet, die du als Rituale wirken kannst. Diese Zauber werden in einem Ritualbuch niedergeschrieben, welches du in der Hand halten musst, während du eines dieser Rituale ausführst. Wenn du dieses Talent wählst, erhältst du ein Ritualbuch, das zwei Zauber des 1. Grades enthält (deiner Wahl). Entscheide dich für eine der folgenden Klassen: Barde, Druide, Kleriker, Magier, Hexenmeister oder Zauberer. Du musst dir deine zwei Zauber aus der Spruchliste dieser Klasse aussuchen, und sie müssen als Ritual gekennzeichnet sein. Die gewählte Klasse bestimmt auch das zum Zauberwirken relevante Attribut: Charisma für Barden, Hexenmeister und Zauberer, Weisheit für Druiden und Kleriker sowie Intelligenz für Magier. Findest du einen Zauber in geschriebener Form, etwa auf einer Spruchrolle oder im Zauberbuch eines Magiers, kannst du versuchen, ihn in dein Ritualbuch zu übertragen. Der Zauber muss in der Spruchliste der gewählten Klasse vorkommen und sein Grad darf nicht mehr als die Hälfte deiner Stufe (aufgerundet) betragen. Außerdem muss der Zauber als Ritual gekennzeichnet sein. Der Vorgang des Kopierens dauert 2 Stunden pro Grad des Zaubers und kostet 50 GM pro Grad. Die Kosten repräsentieren sowohl Materialkomponenten, die du bei den Versuchen verbrauchst, den Zauber zu meistern, als auch spezielle Tinte, die du zum Aufschreiben benötigst."
+    ]
+  },
+  {
+    "name": "Scharfer Verstand",
+    "text": [
+      "Du bist außergewöhnlich gut darin, dir Zeiten, Richtungen und Einzelheiten einzuprägen, und erhältst folgende Vorzüge:",
+      "Erhöhe deine Intelligenz um 1 Punkt, bis zu einem maximalen Attributswert von 20.",
+      "Du weilt immer, wo Norden ist.",
+      "Du weißt immer, wie viele Stunden es zum nächsten Sonnenauf- oder -untergang sind.",
+      "Du kannst dich genau an alles erinnern, was du im vergangenen Monat gesehen oder gehört hast."
+    ]
+  },
+  {
+    "name": "Scharfschütze",
+    "text": [
+      "Du bist ein Meister im Fernkampf und kannst Schüsse ausführen, die anderen unmöglich sind. Du erhältst folgende Vorzüge:",
+      "Du bist beim Angriffswurf nicht im Nachteil, wenn du ein Ziel angreifst, das sich weiter entfernt befindet als die Grundreichweite deiner Waffe.",
+      "Deine Fernkampfangriffe ignorieren Teil- und Dreivierteldeckung.",
+      "Bevor du einen Angriff mit einer Fernkampfwaffe ausführst, in deren Umgang du geübt bist, kannst du dich entscheiden, einen Malus von -5 auf den Angriffswurf hinzunehmen, um den verursachten Schaden bei einem Treffer um 10 zu erhöhen."
+    ]
+  },
+  {
+    "name": "Schauspieler",
+    "text": [
+      "Da du äußerst bewandert in den Künsten der Nachahmung und der Darstellung bist, erhältst du die folgenden Vorzüge:",
+      "Erhöhe dein Charisma um 1 Punkt, bis zu einem maximalen Attributswert von 20.",
+      "Du bist bei Würfen auf Charisma (Täuschen) und Charisma (Auftreten) im Vorteil, wenn du dich als eine andere Person ausgeben willst.",
+      "Du bist in der Lage, die Stimme einer anderen Person oder die Laute einer Kreatur nahezu perfekt nachzuahmen. Dazu musst du dem Ziel mindestens 1 Minute lang zugehört haben. Ein erfolgreicher Weisheitswurf (Motiv erkennen) gegen deinen Wurf auf Charisma (Täuschen) lässt den Zuhörer die Täuschung bemerken."
+    ]
+  },
+  {
+    "name": "Schildmeister",
+    "text": [
+      "Du hast gelernt, Schilde nicht nur zur Verteidigung, sondern auch zum Angriff zu nutzen. Du erhältst die folgenden Vorzüge, solange du einen Schild führst:",
+      "Wenn du in deinem Zug die Angriffsaktion wählst, kannst du deine Bonusaktion dazu verwenden, eine Kreatur innerhalb von 1,50 m mit deinem Schild zurückzustoßen.",
+      "Solange du nicht kampfunfähig bist, kannst du den Rüstungsklassebonus deines Schildes zu jedem Geschicklichkeitsrettungswurf addieren, den du aufgrund eines Zaubereffekts oder dem einer anderen schädlichen Quellen ablegen musst. Diese Effekte dürfen nur dich betreffen.",
+      "Wirst du von einem Effekt betroffen, der dir erlaubt, durch einen erfolgreichen Geschicklichkeitsrettungswurf nur den halben Schaden zu nehmen, kannst du deine Reaktion aufwenden, um bei einem gelungenen Rettungswurf keinen Schaden zu erleiden."
+    ]
+  },
+  {
+    "name": "Schleicher",
+    "voraussetzung": "Geschicklichkeit 13 oder höher",
+    "text": [
+      "Du bist ein Experte darin, durch die Schatten zu schleichen, und erhältst folgende Vorzüge:",
+      "Du kannst versuchen, dich zu verstecken, auch wenn du nur leicht verschleiert bist.",
+      "Wenn du vor einer Kreatur versteckt bist und mit einem Fernkampfangriff verfehlst, offenbart der Angriff nicht deine Position.",
+      "Dämmriges Licht sorgt nicht dafür, dass du bei Würfen auf Weisheit (Wahrnehmung) im Nachteil bist, wenn sie von Sicht abhängen."
+    ]
+  },
+  {
+    "name": "Schwer gepanzert",
+    "voraussetzung": "geübt im Umgang mit mittelschweren Rüstungen",
+    "text": [
+      "Du hast trainiert, in schweren Rüstungen zu kämpfen, und erhältst die folgenden Vorzüge:",
+      "Erhöhe deine Stärke um 1 Punkt, bis zu einem maximalen Attributswert von 20.",
+      "Du bist geübt im Umgang mit schweren Rüstungen."
+    ]
+  },
+  {
+    "name": "Stangenwaffenmeister",
+    "text": [
+      "Du bist versiert im Kampf mit Stangenwaffen und erhältst die folgenden Vorzüge:",
+      "Wenn du die Angriffsaktion wählst und nur mit einer Glefe, Hellebarde, einem Kampfstab oder einem Speer angreifst, kannst du deine Bonusaktion aufwenden, um einen weiteren Angriff mit dem anderen Ende der Waffe auszuführen. Dieser Angriff verwendet denselben Attributsmodifikator wie der erste und verursacht 1W4 Wuchtschaden.",
+      "Solange du eine Glefe, Hellebarde, Pike, einen Kampfstab oder einen Speer führst, provozieren andere Kreaturen einen Gelegenheitsangriff durch dich, wenn sie sich in Reichweite der Waffe begeben."
+    ]
+  },
+  {
+    "name": "Stürmer",
+    "text": [
+      "Wenn du deine Aktion verwendest, um zu spurten, kannst du als Bonusaktion einen Nahkampfangriff ausführen oder eine Kreatur wegstoßen. Hast du vor dieser Bonusaktion mindestens 3 m in einer geraden Linie zurückgelegt, erhältst du entweder einen Bonus von +5 auf den Schadenswurf (wenn du den Nahkampfangriff gewählt hast und triffst) oder du stößt das Ziel bis zu 3 m von dir weg (wenn du dich entschieden hast, den Gegner wegzustoßen, und erfolgreich bist)."
+    ]
+  },
+  {
+    "name": "Wachsam",
+    "text": [
+      "Du hältst immer Ausschau nach Gefahren und erhältst folgende Vorzüge:",
+      "Du erhältst einen Bonus von +5 auf Initiative.",
+      "Du kannst nicht überrascht werden, solange du bei Bewusstsein bist.",
+      "Kreaturen, die du nicht sehen kannst, sind nicht im Vorteil bei Angriffswürfen gegen dich."
+    ]
+  },
+  {
+    "name": "Wächter",
+    "text": [
+      "Du hast die Technik gemeistert, jegliche Lücke in der Verteidigung deines Gegners zu nutzen, und erhältst folgende Vorzüge:",
+      "Wenn du eine Kreatur mit einem Gelegenheitsangriff triffst, wird die Bewegungsrate der Kreatur für den restlichen Zug auf 0 reduziert.",
+      "Kreaturen provozieren Gelegenheitsangriffe durch dich, obwohl sie die Aktion Rückzug gewählt haben, bevor sie deine Reichweite verlassen.",
+      "Wenn eine Kreatur innerhalb von 1,50 m ein anderes Ziel als dich angreift (und das Ziel dieses Talent nicht besitzt), kannst du deine Reaktion aufwenden, um einen Nah-kampf-Waffenangriff gegen diese Kreatur auszuführen."
+    ]
+  },
+  {
+    "name": "Waffenmeister",
+    "text": [
+      "Du hast ausgiebig mit einer Vielzahl an Waffen geübt und erhältst folgende Vorzüge:",
+      "Erhöhe deine Stärke oder Geschicklichkeit um 1 Punkt, bis zu einem maximalen Attributswert von 20.",
+      "Du bist geübt im Umgang mit vier Waffen deiner Wahl. Jede muss eine einfache Waffe oder eine Kriegswaffe sein."
+    ]
+  },
+  {
+    "name": "Widerstandsfähig",
+    "text": [
+      "Du bist hartgesotten und standhaft, wodurch du folgende Vorzüge erhältst:",
+      "Erhöhe deine Konstitution um 1 Punkt, bis zu einem maximalen Attributswert von 20.",
+      "Wenn du mit einem Trefferwürfel Trefferpunkte regenerierst, erhältst du minimal immer so viele Trefferpunkte, wie es dem Doppelten deines Konstitutionsmodifikators entspricht (mindestens 2)."
+    ]
+  },
+  {
+    "name": "Wilder Angreifer",
+    "text": [
+      "Einmal pro Zug darfst du bei einem erfolgreichen Nahkampf-Waffenangriff den Schaden ein zweites Mal auswürfeln und wählen, welches Ergebnis angewendet wird."
+    ]
+  },
+  {
+    "name": "Zäh",
+    "text": [
+      "Du bist zäh wie Leder. Mit der Wahl dieses Talents erhöht sich dein Trefferpunktemaximum einmalig um das Doppelte deiner Stufe. Immer wenn du danach eine Stufe aufsteigst, erhöht sich dein Trefferpunktemaximum um weitere 2 Punkte."
+    ]
+  },
+  {
+    "name": "Zielgenauer Zauberschütze",
+    "voraussetzung": "Fähigkeit, mindestens einen Zauber zu wirken",
+    "text": [
+      "Du hast Techniken gelernt, um die Angriffe mit bestimmten Zaubern zu verbessern, wodurch du die folgenden Vorzüge erhältst:",
+      "Wenn du einen Zauber wirkst, der einen Angriffswurf verlangt, wird dessen Reichweite verdoppelt.",
+      "Deine Angriffszauber ignorieren Teil- und Dreivierteldeckung.",
+      "Du lernst einen Zaubertrick, der einen Angriffswurf erfordert. Wähle einen Zaubertrick aus der Spruchliste des Barden, Druiden, Klerikers, Magiers, Hexenmeisters oder Zauberers. Dein relevantes Attribut zum Zauberwirken hängt von der gewählten Spruchliste ab: Charisma für Barden, Hexenmeister und Zauberer, Weisheit für Druiden und Kleriker sowie Intelligenz für Magier."
+    ]
+  },
+  {
+    "name": "Zwei-Waffen-Kämpfer",
+    "text": [
+      "Du hast die Kunst gemeistert, mit zwei Waffen gleichzeitig zu kämpfen, und genießt folgende Vorzüge:",
+      "Du erhältst einen Bonus von +1 auf deine Rüstungsklasse, wenn du in beiden Händen je eine Nahkampfwaffe führst.",
+      "Du kannst mit zwei Waffen kämpfen, auch wenn die einhändigen Nahkampfwaffen, die du führst, nicht leicht sind.",
+      "Du kannst gleichzeitig zwei einhändige Waffen ziehen beziehungsweise verstauen statt nur einer."
+    ]
+  },
+  {
+    "name": "Ausnahmetalent",
+    "voraussetzung": "Halbelf, Halbork oder Mensch",
+    "text": [
+      "Es fällt dir leicht, neue Dinge zu lernen. Du erhältst die folgenden Vorzüge:",
+      "Du erhältst Übung in einer Fertigkeit deiner Wahl, Übung im Umgang mit einem Werkzeug deiner Wahl und erlernst eine Sprache deiner Wahl.",
+      "Wähle eine Fertigkeit, in der du geübt bist. Du wirst Experte im Umgang mit dieser Fertigkeit. Das heißt, dass dein Übungsbonus bei allen Attributswürfen verdoppelt wird, bei denen diese Fertigkeit zur Anwendung kommt. Die Fertigkeit, die du auswählst, darf nicht bereits von einem anderen Merkmal auf diese Weise profitieren, wie beispielsweise von Expertise, das deinen Übungsbonus verdoppelt."
+    ]
+  },
+  {
+    "name": "Drachenfurcht",
+    "voraussetzung": "Drachenblütiger",
+    "text": [
+      "Wenn jemand deinen Zorn erregt, kannst du eine bedrohliche Aura ausstrahlen. Du erhältst die folgenden Vorzüge:",
+      "Erhöhe deinen Stärke-, Konstitutions- oder Charismawert um 1, bis zu einem maximalen Wert von 20.",
+      "Statt mit einem Atemhauch zerstörerische Energie zu entfesseln, kannst du eine Anwendung deines Merkmals Odemwaffe verbrauchen, um jede Kreatur deiner Wahl innerhalb von 9 m um dich herum zu einem Weisheitsrettungswurf (SG 8 + dein Übungsbonus + dein Charismamodifikator) zu zwingen. Ein Ziel besteht diesen Wurf automatisch, wenn es dich nicht hören oder sehen kann. Bei einem misslungenen Rettungswurf ist das Ziel 1 Minute lang von dir verängstigt. Wenn das verängstigte Ziel irgendwie Schaden erleidet, kann es den Rettungswurf wiederholen, und bei Erfolg endet der auf ihm liegende Effekt."
+    ]
+  },
+  {
+    "name": "Drachenhaut",
+    "voraussetzung": "Drachenblütiger",
+    "text": [
+      "Dir wachsen Schuppen und Klauen, ähnlich wie die deiner drakonischen Vorfahren. Du erhältst die folgenden Vorzüge:",
+      "Erhöhe deinen Stärke-, Konstitutions- oder Charismawert um 1, bis zu einem maximalen Wert von 20.",
+      "Deine Schuppen verhärten sich. Wenn du keine Rüstung trägst, beträgt deine RK 13 + dein Geschicklichkeitsmodifikator. Du kannst einen Schild nutzen und dennoch diesen Vorzug erhalten.",
+      "Aus den Spitzen deiner Finger wachsen Klauen, die sich einziehen und ausfahren lassen. Die Klauen auszufahren oder einzuziehen, erfordert keine Aktion. Die Klauen sind natürliche Waffen, mit denen du waffenlose Schläge ausführen kannst. Wenn du mit ihnen triffst, fügst du Hiebschaden in Höhe von 1W4 + dein Stärkemodifikator zu, statt dem normalen Wuchtschaden eines waffenlosen Schlags."
+    ]
+  },
+  {
+    "name": "Elfische Treffsicherheit",
+    "voraussetzung": "Elf oder Halbelf",
+    "text": [
+      "Die Treffsicherheit von Elfen ist legendär, besonders die von elfischen Bogenschützen und Magiewirkern, Du bist äußerst treffsicher mit Angriffen, die Geschick statt rohe Gewalt erfordern. Du erhältst die folgenden Vorzüge:",
+      "Erhöhe deinen Geschicklichkeits-, deinen Intelligenz-, deinen Weisheits- oder deinen Charismawert um 1, bis zu einem Maximalwert von 20.",
+      "Wenn du im Vorteil bei einem Angriffswurf bist, der auf Geschicklichkeit, Intelligenz, Weisheit oder Charisma basiert, kannst du einen der Würfel einmal erneut würfeln."
+    ]
+  },
+  {
+    "name": "Feenteleportation",
+    "voraussetzung": "Hochelf",
+    "text": [
+      "Du hast die Legenden der Hochelfen studiert und dadurch Feenkräfte in dir erweckt, die nur wenige andere Elfen besitzen, wenn man von deinen Cousins, den Eladrin, einmal absieht. Du schöpfst Kraft aus deinem Feenerbe, um für einen Moment durch das Feywild zu schreiten und rascher von einem Ort zum anderen zu gelangen. Du erhältst die folgenden Vorzüge:",
+      "Erhöhe deinen Intelligenz- oder deinen Charismawert um 1, bis zu einem Maximalwert von 20.",
+      "Du lernst Sylvanisch zu sprechen, zu lesen und zu schreiben.",
+      "Du erlernst den Zauber Nebelschritt und kannst ihn einmal wirken, ohne einen Zauberplatz zu verbrauchen. Nach einer langen oder kurzen Rast kannst du den Zauber wieder auf diese Weise wirken. Dein Attribut zum Zauberwirken für diesen Zauber ist Intelligenz."
+    ]
+  },
+  {
+    "name": "Hohe Drowmagie",
+    "voraussetzung": "Dunkelelf (Drow)",
+    "text": [
+      "Du vertiefst dein Wissen über die Magie der Dunkelelfen. Du erlernst den Zauber Magie entdecken und kannst ihn beliebig oft wirken, ohne einen Zauberplatz zu verbrauchen. Du lernst außerdem Schweben und Magie bannen, die du beide jeweils einmal wirken kannst, ohne einen Zauberplatz zu verbrauchen. Nach einer langen Rast kannst du diese beiden Zauber wieder auf diese Weise wirken. Dein Attribut zum Zauberwirken für alle drei Zauber ist Charisma."
+    ]
+  },
+  {
+    "name": "Infernalische Konstitution",
+    "voraussetzung": "Tiefling",
+    "text": [
+      "Das Unholdblut ist stark in dir und verleiht dir Widerstandskraft, ähnlich der, die einige Unholde besitzen. Du erhältst die folgenden Vorzüge:",
+      "Erhöhe deinen Konstitutionswert um 1, bis zu einem Maximalwert von 20.",
+      "Du erhältst Resistenz gegen Kälte- und Giftschaden.",
+      "Du bist im Vorteil bei Rettungswürfen gegen den Zustand vergiftet."
+    ]
+  },
+  {
+    "name": "Orkischer Zorn",
+    "voraussetzung": "Halbork",
+    "text": [
+      "Dein innerer Zorn ist unbändig. Du erhältst die folgenden Vorzüge:",
+      "Erhöhe deinen Stärke- oder Konstitutionswert um 1, bis zu einem Maximalwert von 20.",
+      "Wenn einer deiner Angriffe mit einer einfachen Waffe oder einer Kriegswaffe trifft, kannst du einen der Schadenswürfel der Waffe ein weiteres Mal werfen und als zusätzlichen Schaden hinzurechnen. Die Schadensart dieses Schadens entspricht der Schadensart der Waffe. Nachdem du diese Fähigkeit eingesetzt hast, kannst du sie nicht erneut verwenden, bis du eine kurze oder lange Rast beendet hast.",
+      "Sofort, nachdem du das Merkmal Durchhaltevermögen eingesetzt hast, kannst du deine Reaktion nutzen, um einen Waffenangriff durchzuführen."
+    ]
+  },
+  {
+    "name": "Flammen von Phlegethos",
+    "voraussetzung": "Tiefling",
+    "text": [
+      "Du lernst, Höllenfeuer heraufzubeschwören und es zu kontrol-lieren. Du erhältst die folgenden Vorzüge:",
+      "Erhöhe deinen Intelligenz- oder Charismawert um 1, bis zu einem Maximalwert von 20.",
+      "Wenn du für einen von dir gewirkten Zauber Feuerschaden auswürfelst, kannst du jede 1 auf den Schadenswürfeln erneut würfeln, musst das neue Ergebnis aber verwenden, selbst wenn es sich wieder um eine 1 handelt.",
+      "Immer, wenn du einen Zauber wirkst, der Feuerschaden zufügt, kannst du dich bis zum Ende deines nächsten Zuges von Flammen umhüllen lassen. Die Flammen fügen dir oder deinen Besitztümern keinen Schaden zu, geben in einem Radius von 9 m helles Licht ab und für weitere 9 m dämmriges Licht. Solange die Flammen dich umhüllen, erleidet jede Kreatur innerhalb von 1,50 m um dich, die einen Nahkampf-angriff gegen dich durchführt, 1W4 Feuerschaden."
+    ]
+  },
+  {
+    "name": "Kurzbeinige Behändigkeit",
+    "voraussetzung": "Zwerg oder ein Volk, das die Größenkategorie klein besitzt",
+    "text": [
+      "Du bist ungewöhnlich wendig für einen Angehörigen deines Volkes. Du erhältst die folgenden Vorzüge:",
+      "Erhöhe deinen Stärke- oder Geschicklichkeitswert um 1, bis zu einem Maximalwert von 20.",
+      "Deine Schrittbewegungsrate erhöht sich um 1,50 m.",
+      "Du erhältst Übung in der Fertigkeit Akrobatik oder der Fertigkeit Athletik (deine Wahl)",
+      "Du bist im Vorteil bei jedem Wurf auf Stärke (Athletik) oder jedem Wurf auf Geschicklichkeit (Akrobatik), den du durch-führst, um aus einem Haltegriff zu entkommen."
+    ]
+  },
+  {
+    "name": "Unerhörtes Glück",
+    "voraussetzung": "Halbling",
+    "text": [
+      "Leute deines Volks haben außergewöhnlich viel Glück, und du hast gelernt, deine Gefährten auf mystische Weise an diesem Glück teilhaben zu lassen, wenn sie in Bedrängnis geraten. Du bist dir nicht sicher, wie das Ganze funktioniert; du wünschst es dir einfach und schon geschieht es. Gewiss ein Zeichen dafür, dass dir das Glück hold ist! Wenn ein Verbündeter, den du innerhalb von 9 m um dich sehen kannst, eine 1 bei einem Angriffswurf, einem Attributswurf oder einem Rettungswurf würfelt, kannst du deine Reaktion nutzen, damit dein Verbündeter seinen Wurf wiederholen darf. Der Verbündete muss den neuen Wurf verwenden. Wenn du diese Fähigkeit einsetzt, kannst du dein Volksmerkmal Halblingsglück erst nach dem Ende deines nächsten Zuges wieder verwenden."
+    ]
+  },
+  {
+    "name": "Verschwinden",
+    "voraussetzung": "Gnom",
+    "text": [
+      "Dein Volk gilt als gescheit und hat ein Talent für die Illusionsmagie. Du hast einen magischen Trick gelernt, mit dessen Hilfe du verschwinden kannst, wenn du verletzt wirst. Du erhältst die folgenden Vorzüge:",
+      "Erhöhe deinen Geschicklichkeits- oder Intelligenzwert um 1, bis zu einem Maximalwert von 20.",
+      "Sofort, nachdem du Schaden erleidest, kannst du eine Reaktion nutzen, um auf magische Weise unsichtbar zu werden. Diese Unsichtbarkeit hält bis zum Ende deines nächsten Zuges an, oder bis du angreifst, Schaden verursachst, oder jemanden zwingst, einen Rettungswurf durchzuführen. Nachdem du diese Fähigkeit eingesetzt hast, kannst du sie erst wieder verwenden, nachdem du eine kurze oder lange Rast beendet hast."
+    ]
+  },
+  {
+    "name": "Waldelfenmagie",
+    "voraussetzung": "Waldelf",
+    "text": [
+      "Du erlernst die Magie der urtümlichen Wälder, die von deinem Volk verehrt und beschützt werden. Du lernst einen Druidenzaubertrick deiner Wahl. Außerdem erhältst du die Zauber Lange Schritte und Spurloses Gehen, die du beide jeweils einmal wirken kannst, ohne einen Zauberplatz zu verbrauchen. Nach einer langen Rast kannst du diese beiden Zauber erneut auf diese Weise wirken. Dein Attribut zum Zauberwirken für alle drei Zauber ist Weisheit."
+    ]
+  },
+  {
+    "name": "Zweite Chance",
+    "voraussetzung": "Halbling",
+    "text": [
+      "Das Glück ist stets auf deiner Seite, wenn jemand versucht, dich zu treffen. Du erhältst die folgenden Vorzüge:",
+      "Erhöhe deinen Geschicklichkeits-, Konstitutions- oder Charismawert um 1, bis zu einem maximalen Wert von 20.",
+      "Wenn eine Kreatur, die du sehen kannst, dich mit einem Angriffswurf trifft, kannst du deine Reaktion nutzen, um diese Kreatur dazu zu zwingen, ihren Wurf zu wiederholen. Nachdem du diese Fähigkeit verwendet hast, kannst du sie erst wieder einsetzen, wenn du zu Beginn eines Kampfes Initiative würfelst oder wenn du eine kurze oder lange Rast beendet hast."
+    ]
+  },
+  {
+    "name": "Zwergische Standhaftigkeit",
+    "voraussetzung": "Zwerg",
+    "text": [
+      "Das Blut von Zwergenhelden fließt durch deine Adern. Du erhältst die folgenden Vorzüge:",
+      "Erhöhe deinen Konstitutionswert um 1, bis zu einem Maximalwert von 20.",
+      "Immer, wenn du im Kampf die Ausweichaktion ausführst, kannst du einen Trefferwürfel ausgeben, um dich selbst zu heilen. Würfle mit dem Würfel, addiere deinen Konstitutionsmodifikator hinzu und erhalte Trefferpunkte in Höhe des Gesamtergebnisses zurück (mindestens 1)."
+    ]
+  }
+]

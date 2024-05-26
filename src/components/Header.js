@@ -55,9 +55,17 @@ const Header = () => {
             <li onClick={handleSth}>
               <NavLink to="/werkzeuge">Werkzeuge</NavLink>
             </li>
+            <li onClick={handleSth}>
+              <NavLink to="/talente">Talente</NavLink>
+            </li>
           </ul>
         </div>
-        <img className="logo" onClick={showPopUp} src={require("./w20.webp")} alt="w20" />
+        <img
+          className="logo"
+          onClick={showPopUp}
+          src={require("./w20.webp")}
+          alt="w20"
+        />
       </nav>
 
       {showDice && <Dice />}
