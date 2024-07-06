@@ -5,6 +5,9 @@ const Layout = ({ children }) => {
     <div>
       <Header />
       {children}
+      <a href="#" class="top">
+        <button>Nach oben</button>
+      </a>
     </div>
   );
 };

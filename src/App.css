@@ -166,6 +166,12 @@ nav a.active {
 
 /* ----------------------------------------------------------------------------------------------- */
 
+.top {
+  position: fixed;
+  bottom: 30px;
+  left: 20px;
+}
+
 .container {
   padding-bottom: 3rem;
   display: flex;

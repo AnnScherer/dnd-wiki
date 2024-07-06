@@ -133,7 +133,7 @@ const Home = () => {
                   Zeitaufwand: {spell.zeitaufwand} <br />
                   Reichweite: {spell.reichweite} <br />
                   Koponenten: {spell.komponenten} <br />
-                  Wirkungsdauer: {spell.wirkungsdauer}
+                  Wirkungsdauer: {spell.wirkungsdauer} <br />
                 </p>
                 <div>
                   {spell.text.map((info, i) => (
